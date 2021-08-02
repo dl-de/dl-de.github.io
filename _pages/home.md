@@ -43,15 +43,18 @@ acknowledgements: ""
 
 
 
+<p>
 The focus of this workshop is on the interplay between deep learning (DL) and differential equations (DEs).
 In recent years, there has been a rapid increase of machine learning applications in computational sciences, with some of the most impressive results at the interface of DL and DEs. 
 These successes have widespread implications, as DEs are among the most well-understood tools for the mathematical analysis of scientific knowledge, and they are fundamental building blocks for mathematical models in engineering, finance, and the natural sciences. 
 This relationship is mutually beneficial.
 DL techniques have been used in a variety of ways to dramatically enhance the effectiveness of DE solvers and computer simulations.
-Conversely, DEs have also been used as mathematical models of the neural architectures and training algorithms arising in DL.
+Conversely, DEs have also been used as mathematical models of the neural architectures and training algorithms arising in DL.</p>
 
+<p>
 This workshop will aim to bring together researchers from each discipline to encourage intellectual exchanges and cultivate relationships between the two communities.
-The scope of the workshop will include important topics at the intersection of DL and DEs, such as:
+The scope of the workshop will include important topics at the intersection of DL and DEs, such as:</p>
+
 
 - How can DE models provide insights into DL?
   - What families of functions are best represented by different neural architectures?
