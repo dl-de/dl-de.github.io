@@ -190,7 +190,7 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
   <div class="col-xs-12">
     <p><b>(EST) morning </b></p>
     <ul>
-      <li>08:00 AM : Introduction and opening remarks
+      <li>08:00 AM : Introduction and opening remarks</li>
       <li>08:15 AM : Invited Talk 1  | <a href="https://google.com">Slides (still unavailable)</a> </li>
       <li>09:00 AM : Contributed Talk 1  | <a href="https://google.com">Slides (still unavailable)</a> </li>
       <li>09:15 AM : Coffee Break</li>
