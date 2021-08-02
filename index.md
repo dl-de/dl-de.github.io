@@ -1,12 +1,10 @@
-## The Symbiosis of Deep Learning and Differential Equations
+# The Symbiosis of Deep Learning and Differential Equations
 
 
 The focus of this workshop is on the interplay between deep learning (DL) and differential equations (DEs).
 In recent years, there has been a rapid increase of machine learning applications in computational sciences, with some of the most impressive results at the interface of DL and DEs. 
-
 These successes have widespread implications, as DEs are among the most well-understood tools for the mathematical analysis of scientific knowledge, and they are fundamental building blocks for mathematical models in engineering, finance, and the natural sciences. 
 This relationship is mutually beneficial.
-
 DL techniques have been used in a variety of ways to dramatically enhance the effectiveness of DE solvers and computer simulations.
 Conversely, DEs have also been used as mathematical models of the neural architectures and training algorithms arising in DL.
 
@@ -60,9 +58,7 @@ Reddit.
 
 [Weinan E](https://web.math.princeton.edu/~weinan/) (confirmed) is a professor in Applied and Computational Mathematics at Princeton University. His current research interests lie at the intersection of mathematics, physics, and machine learning. He has made important contributions to the theoretical foundations of deep neural networks, exploring questions on training dynamics and generalization. Additionally, he has driven the development of machine learning algorithms for use in computational science, including solution methods for complicated PDE problems and techniques for incorporating mathematical models into data-driven approaches. 
 
-
-[Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (confirmed) %is a professor in Applied and Computational Mathematics at Princeton University. His current research interests lie at the intersection of mathematics, physics, and machine learning. He has made important contributions to the theoretical foundations of deep neural networks, exploring questions on training dynamics and generalization. Additionally, he has driven the development of machine learning algorithms for use in computational science, including solution methods for complicated PDE problems and techniques for incorporating mathematical models into data-driven approaches. 
-holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At Caltech, she is the co-director of Dolcit and co-leads the AI4science initiative, along with Yisong Yue.
+[Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (confirmed) is a professor in Applied and Computational Mathematics at Princeton University. Her current research interests lie at the intersection of mathematics, physics, and machine learning. She has made important contributions to the theoretical foundations of deep neural networks, exploring questions on training dynamics and generalization. Additionally, she has driven the development of machine learning algorithms for use in computational science, including solution methods for complicated PDE problems and techniques for incorporating mathematical models into data-driven approaches. 
 She has spearheaded the development of tensor algorithms, first proposed in her seminal paper, which enable efficient processing of multidimensional and multimodal data. Her contributions to Physics Informed Deep Learning, such as the Fourier Neural Operator network for solving parametric PDEs, have sparked great interest in the community.
 
 ## Organizers
