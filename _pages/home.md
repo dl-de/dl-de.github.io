@@ -17,7 +17,7 @@ acknowledgements: ""
     <center><h2>NeurIPS 2021 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       Tuesday, 14th December, 08:00 AM to 06:30 PM,
-      Room: to be specified
+      Virtual Workshop
     </span></center>
   </div>
 </div>
@@ -80,11 +80,11 @@ The scope of the workshop will include important topics at the intersection of D
 
 
 
+<p>
 We expect to publish around 40 articles, out of 80 submissions, and 200 attendees. We plan to crowdsource revisions so every main author to submit an article is expected to review 3-5 submissions.
+</p>
 
-
-</div>
-</div> <br>
+<br>
 
 <div class="row" id="dates">
   <div class="col-xs-12">
