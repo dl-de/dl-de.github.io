@@ -188,7 +188,7 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
 
 <div class="row">
   <div class="col-xs-12">
-      <p><b>(EST) morning </b></p>
+    <p><b>(EST) morning </b></p>
     <ul>
       <li>08:00 AM : Introduction and opening remarks
       <li>08:15 AM : Invited Talk 1  | <a href="https://google.com">Slides (still unavailable)</a> </li>
@@ -200,9 +200,9 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
       <li>11:00 AM : Coffee Break</li>
       <li>11:05 AM : Panel discussion      </li>
       <li>12:15 AM : Lunch Break                </li>
-     </ul>
-     <p><b>(EST) afternoon </b></p>
-     <ul>
+    </ul>
+    <p><b>(EST) afternoon </b></p>
+    <ul>
       <li>13:15 AM : Invited Talk 3</li>
       <li>14:00 AM : Contributed Talk 2</li>
       <li>14:15 AM : Coffee Break</li>
