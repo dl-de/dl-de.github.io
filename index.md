@@ -43,3 +43,28 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
 | 11:00         | Coffee Break                     | 16:00           | Contributed Talk 3  |
 | 11:05         | Panel discussion                 | 16:15           | Contributed Talk 4  |
 | 12:15         | Lunch Break                      | 16:30           | End                 |
+
+
+Four of the papers submitted to the workshop will be selected as 15-minute contributed talks.
+Our tentative schedule is presented in detail in the table above. We will live-stream all sessions during the workshop through Zoom. 
+We will also encourage participation via online media, such as Twitter and
+Reddit. 
+
+
+## Speakers
+
+[Neha Yadav](https://portfolios.nith.ac.in/index.php?/nith/dr-neha-yadav-) (confirmed) is an assistant professor at the National Institute of Technology Hamirpur. Her research focuses on using neural networks and other machine learning techniques to solve differential equations, and exploring new optimization algorithms such as harmony search algorithms or particle swarm optimization. In addition to her many publications, she is a co-author of ``An Introduction to Neural Network Methods for Differential Equations,'' the first textbook on the subject. 
+
+
+[Philipp Grohs](https://mat.univie.ac.at/~grohs/) (confirmed) is a professor at the University of Vienna. His research interests lie in approximation theory and computational harmonic analysis. In addition, he is known for his work on numerical methods for PDEs, and has made important contributions to the development and analysis of machine learning algorithms for the numerical approximation of high-dimensional PDEs. Of particular notice is his theoretical work on error estimates for deep network approximations to the solutions of PDEs, including his proofs that neural networks overcome the curse of dimensionality in these applications. 
+
+[Weinan E](https://web.math.princeton.edu/~weinan/) (confirmed) is a professor in Applied and Computational Mathematics at Princeton University. His current research interests lie at the intersection of mathematics, physics, and machine learning. He has made important contributions to the theoretical foundations of deep neural networks, exploring questions on training dynamics and generalization. Additionally, he has driven the development of machine learning algorithms for use in computational science, including solution methods for complicated PDE problems and techniques for incorporating mathematical models into data-driven approaches. 
+
+
+[Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (confirmed) %is a professor in Applied and Computational Mathematics at Princeton University. His current research interests lie at the intersection of mathematics, physics, and machine learning. He has made important contributions to the theoretical foundations of deep neural networks, exploring questions on training dynamics and generalization. Additionally, he has driven the development of machine learning algorithms for use in computational science, including solution methods for complicated PDE problems and techniques for incorporating mathematical models into data-driven approaches. 
+holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At Caltech, she is the co-director of Dolcit and co-leads the AI4science initiative, along with Yisong Yue.
+She has spearheaded the development of tensor algorithms, first proposed in her seminal paper, which enable efficient processing of multidimensional and multimodal data. Her contributions to Physics Informed Deep Learning, such as the Fourier Neural Operator network for solving parametric PDEs, have sparked great interest in the community.
+
+## Organizers
+
+
