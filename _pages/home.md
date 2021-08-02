@@ -146,18 +146,15 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
 
   <p>
   Submissions should be up to 4 pages excluding references, acknowledgements, and supplementary material, and should be
-      <span style="color:#1a1aff;font-weight:400;"><a href="https://nips.cc/Conferences/2018/PaperInformation/StyleFiles">NIPS format</a></span> and anonymous. The review process is double-blind.
+      <span style="color:#1a1aff;font-weight:400;"><a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles">NeurIPS format</a></span> and anonymous. The review process is double-blind.
   </p>
   <p>
   We also welcome published papers that are within the scope of the workshop (without re-formatting). This specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.
   </p>
 
   <p>
-  Please submit your paper to the following address: <a href="https://cmt3.research.microsoft.com/VIGIL2018">https://cmt3.research.microsoft.com/VIGIL2018</a>
-  If you have any question, send an email to: vigilworkshop2018@gmail.com
-  </p>
-
-  <p><b>Accepted workshop papers are eligible to the pool of reserved conference tickets (one ticket per accepted papers).</b>
+  Please submit your paper to the following address: to be specified.
+  If you have any question, send an email to: luca.celotti@usherbrooke.ca
   </p>
 
   </div>
