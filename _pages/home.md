@@ -41,8 +41,6 @@ acknowledgements: ""
   <div class="col-xs-12">
 <p>
 
-
-
 <p>
 The focus of this workshop is on the interplay between deep learning (DL) and differential equations (DEs).
 In recent years, there has been a rapid increase of machine learning applications in computational sciences, with some of the most impressive results at the interface of DL and DEs. 
@@ -56,32 +54,34 @@ This workshop will aim to bring together researchers from each discipline to enc
 The scope of the workshop will include important topics at the intersection of DL and DEs, such as:</p>
 
 
-- How can DE models provide insights into DL?
-  - What families of functions are best represented by different neural architectures?
-  - Can this connection guide the design of new neural architectures?
-  - Can DE models be used to derive bounds on generalization error?
-  - What insights can DE models provide into training dynamics?
-  - Can these insights guide the design of weight initialization schemes?    
+<div class="row">
+  <div class="col-xs-12">
+    <ul>
+      <li>How can DE models provide insights into DL?
+      <ul>
+        <li>What families of functions are best represented by different neural architectures?</li>
+        <li>Can this connection guide the design of new neural architectures?</li>
+        <li>Can DE models be used to derive bounds on generalization error?</li>
+        <li>What insights can DE models provide into training dynamics?</li>
+        <li>Can these insights guide the design of weight initialization schemes?</li>
+      </ul>
+      </li>
+      <li>How can DL be used to enhance the analysis of DEs?
+      <ul>
+        <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …)</li>
+        <li>Solving highly parameterized DEs </li>
+        <li>Solving inverse problems</li>
+        <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)</li>
+      </ul>
+      </li>
+    </ul>
+  </div>
+</div>
 
-- How can DL be used to enhance the analysis of DEs?
-  - Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …)
-  - Solving highly parameterized DEs 
-  - Solving inverse problems
-  - Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)
 
 
+We expect to publish around 40 articles, out of 80 submissions, and 200 attendees. We plan to crowdsource revisions so every main author to submit an article is expected to review 3-5 submissions.
 
-We expect to publish around 40 articles, out of 80 submissions, and 200 attendees. We plan to crowdsource revisions so every main author to submit an article is expected to review three submissions. The submission date for Workshop contributions is Sep 17, 2021 and the  Accept/Reject notification date is  Oct 17, 2021.
-
-Machine Learning with Deep Neural Networks has been progressively adapted as a computational tool in the natural sciences and mathematics. Significant advances have been made in enhancing numerical simulation methods with ML and solving complex dynamical equations. Deep models are also accelerating progress in other mathematical sciences, such as electrical and computer engineering, medicine, chemistry, and biology.  However, a complete understanding of the dynamics of DNNs themselves is lacking, leading researchers to question their fundamental understanding of this progress and its sustainability.  This workshop aims to address a tension between two viewpoints, one in which machine learning is used as a tool for progress and understanding and another that aims to understand why the tool is so effective.  We aim to provide a venue to explore the give-and-take relationship between the mathematical sciences and ML with the aim of gaining deeper insight into the mathematics of ML and how/when to use ML algorithms to solve mathematical problems in science.</p>
-
-<!--This workshop is placed in the tension between the two viewpoints, exploring the take-and-give relationship between mathematical sciences and ML with the aim of gaining deeper insight into the mathematics of ML, and using ML algorithms to solve mathematical problems in science.-->
-
-<p>
-We aim to bring together researchers across the mathematical sciences to discuss and learn about the exchange in both directions: 1) how domain-specific mathematical models are being used to understand machine learning and 2) how machine learning is being used to solve problems in domain-specific models.  The primary objective is to understand where our fundamental knowledge in these domains and machine learning overlap and where they deviate and to understand the nature of this deviation.</p>
-
-<p>Examples of 1) include the use of Fokker-Plank equation and Stochastic Differential Equations to understand Stochastic Gradient Descent <a href="#note1" id="note1ref">[1-2]</a>, the use of Game Theory to provide robustness to trained networks to adversarial attacks <a href="#note3" id="note3ref">[3]</a> or Complexity Theory to understand how Recurrent Networks can achieve super Universal Turing Machine capabilities <a href="#note4" id="note4ref">[4-5]</a>. In each case, a well established mathematical foundation exists that can help enquire about the performance of machine learning models. Examples of 2) include using machine learning to solve the the Quantum Many-Body Problem  <a href="#note6" id="note6ref">[6]</a>,  or using deep networks to find solutions of high dimensional Partial Diferential Equations <a href="#note7" id="note7ref">[7]</a>. Therefore tackling long standing mathematical questions taking advantage of the features introduced by machine learning.
-</p>
 
 </div>
 </div> <br>
@@ -98,15 +98,15 @@ We aim to bring together researchers across the mathematical sciences to discuss
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>November 1st, 2018 - Midnight Pacific Time</td>
+          <td>September 17th,  2021 - Midnight Pacific Time</td>
         </tr>
         <tr>
           <td>Final Decisions</td>
-          <td>November 9th, 2018 </td>
+          <td>October 17th, 2021 </td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>December 7th, 2018</td>
+          <td>December 14th, 2021</td>
         </tr>
       </tbody>
     </table>
