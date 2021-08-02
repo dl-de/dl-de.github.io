@@ -223,7 +223,7 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/nehayadav.jpg" | prepend:site.baseurl }}">
     <p><b>Neha Yadav</b>
     (confirmed) is an assistant professor at the National Institute of Technology Hamirpur. Her research focuses on using neural networks and other machine learning techniques to solve differential equations, and exploring new optimization algorithms such as harmony search algorithms or particle swarm optimization. In addition to her many publications, she is a co-author of ``An Introduction to Neural Network Methods for Differential Equations,'' the first textbook on the subject. 
-    <span style="color:#1a1aff;font-weight:400;">[<a href="{https://portfolios.nith.ac.in/index.php?/nith/dr-neha-yadav-">Webpage</a>]</span></p>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://portfolios.nith.ac.in/index.php?/nith/dr-neha-yadav-">Webpage</a>]</span></p>
   </div>
 </div><br>
 
@@ -233,7 +233,7 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/philippgrohs.jpg" | prepend:site.baseurl }}">
     <p><b>Philipp Grohs</b>
     (confirmed) is a professor at the University of Vienna. His research interests lie in approximation theory and computational harmonic analysis. In addition, he is known for his work on numerical methods for PDEs, and has made important contributions to the development and analysis of machine learning algorithms for the numerical approximation of high-dimensional PDEs. Of particular notice is his theoretical work on error estimates for deep network approximations to the solutions of PDEs, including his proofs that neural networks overcome the curse of dimensionality in these applications.     
-    <span style="color:#1a1aff;font-weight:400;">[<a href="{https://mat.univie.ac.at/~grohs/">Webpage</a>]</span></p>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://mat.univie.ac.at/~grohs/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
@@ -268,8 +268,7 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
 <div class="row">
   <div class="col-xs-12">
     <p>
-    The workshop was broadcasted via BlueJeans. You can find the recordings here: 
-    <a href="https://bluejeans.com/s/KAsSh">Morning Session</a> | <a href="https://bluejeans.com/s/hEo5B">Afternoon Session</a></p>
+    The workshop will be broadcasted via Zoom and poster sessions will be on Gathertown. We will upload the recordings on YouTube</p>
   </div>
 </div>
 
