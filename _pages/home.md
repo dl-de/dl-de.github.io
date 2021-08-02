@@ -137,10 +137,10 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
 
   <p> <span style="font-weight:500;">Submission:</span>
   <br/>
-    Accepted papers
-    will be presented during joint poster sessions, with exceptional submissions
-    selected for spotlight oral presentation. Accepted papers will be made publicly
-    available as non-archival reports,
+    Accepted papers will be presented during joint poster sessions. 
+    Exceptional submissions will be either selected for four 15-minute contributed talks
+    or 8 5-minute spotlight oral presentations. 
+    Accepted papers will be made publicly available as non-archival reports,
     allowing future submissions to archival conferences or journals.
   </p>
 
@@ -216,85 +216,6 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
 <div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/terencetao.png" | prepend:site.baseurl }}">
-    <p><b>Terence Tao</b>
-    is Professor of mathematics at the University of California, Los Angeles, and was awarded the 2006 Fields Medal.
-    His research focuses on harmonic analysis, partial differential equations, algebraic combinatorics, arithmetic combinatorics, geometric combinatorics, compressed sensing and analytic number theory.
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.math.ucla.edu/~tao/">Webpage</a>]</span></p>
-  </div>
-</div><br>
-
-
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/aasaferagen.jpg" | prepend:site.baseurl }}">
-    <p><b>Aasa Feragen</b>
-    is Professor of Computer Science at the University of Copenhagen. She is interested in uncertainty quantification for functional data in medical imaging, statistics and machine learning for data with topological variation (trees, graphs, point sets, functions, images) and nonlinear statistics; statistics in metric spaces such as Riemannian manifolds, stratified spaces, spaces of trees and graphs. She works as well on applications in medical imaging and computer visison.
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://sites.google.com/site/aasaferagen/">Webpage</a>]</span></p>
-  </div>
-</div><br>
-
-
-
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/siegelmann.jpg" | prepend:site.baseurl }}">
-    <p><b>Hava T. Siegelmann</b>
-    is Professor of Computer Science at University of Massachusetts Amherst. She's a recognized expert in Complex Systems and Neural Networks, focuses on theoretical computational neuroscience, computation in and modeling of natural systems and their application to intelligent systems. Of particular research interest are intelligence vis-a-vis adaptive memory, advanced models of cognition, and evolving, intelligent interfaces for robotics and other intelligent systems. Her studies often involve multi-scale modeling and system level analysis of major disorders such as cancer. The creator of a new field of computer science, Super-Turing computation, Dr. Siegelmann is applying the theory to biological systems and exploring them in connection with a new generation of analog computer.
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.cics.umass.edu/faculty/directory/siegelmann_hava">Webpage</a>]</span></p>
-  </div>
-</div><br>
-
-
-
-
-
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/suryaganguli.jpg" | prepend:site.baseurl }}">
-    <p><b>Surya Ganguli</b>
-    is Professor of applied physics at Stanford University, Los Angeles, and was awarded the 2016 Investigator Award in Mathematical Modeling of Living Systems by Simons Foundation.
-      His research is focused on understanding Machine Learning and Neuroscience with techniques from a wide range of disciplines such as statistical mechanics, dynamical systems theory and information theory.
-    <span style="color:#1a1aff;font-weight:400;">[<a href="http://ganguli-gang.stanford.edu/surya.html">Webpage</a>]</span></p>
-  </div>
-</div><br>
-
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/amygreenwald.png" | prepend:site.baseurl }}">
-    <p><b>Amy R. Greenwald</b>
-    is Professor of Computer Science at Brown University. Her work splits in twin research goals: first, the effort to design and implement AI agents that interact effectively in multiagent environments; second, the effort to understand, explain, and accurately predict the dynamics of such interactions. In pursuing these goals, Prof. Greenwald draws from theoretical and practical sources, including a variety of disciplines such as AI, decision theory, game theory, and economics.
-    <span style="color:#1a1aff;font-weight:400;">[<a href="http://cs.brown.edu/people/faculty/amy/">Webpage</a>]</span></p>
-  </div>
-</div><br>
-
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/konstantinosspiliopoulos.jpg" | prepend:site.baseurl }}">
-    <p><b>Konstantinos Spiliopoulos</b>
-    is Professor at the Department of Mathematics and Statistics, Boston University. His research lies broadly in the area of stochastic processes, applied mathematics and probability, large deviations, multiscale methods, financial mathematics, asymptotic problems for stochastic processes and partial differential equations , statistical inference for stochastic differential equations and statistical learning.
-    <span style="color:#1a1aff;font-weight:400;">[<a href="http://math.bu.edu/people/kspiliop/">Webpage</a>]</span></p>
-  </div>
-</div><br>
-
-
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/matthiastroyer.jpg" | prepend:site.baseurl }}">
-    <p><b>Matthias Troyer</b>
-    is been professor at ETH Zurich and has now joined Microsoft’s quantum computing program. He works on a variety of topics in quantum computing, from the simulation of materials and quantum devices to quantum software, algorithms and applications of future quantum computers. His broader research interests span from high performance computing and quantum computing to the simulations of quantum devices and island ecosystems.
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.microsoft.com/en-us/research/people/mtroyer/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
