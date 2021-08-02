@@ -221,9 +221,17 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/weinane.jpg" | prepend:site.baseurl }}">
     <p><b>Weinan E</b>
-    is Professor in Applied and Computational Mathematics at Princeton University.
-    He has worked on various disciplines of sciences and has contributed to the resolution of some long standing scientific problems such as the Burgers turbulence problem, the Cauchy-Born rule for crystalline solids, and the moving contact line problem. He is interested in bringing clarity to scientific issues through mathematics and in multi-scale and/or multi-physics problems. He has also worked on building the mathematical framework and finding effective numerical algorithms for modeling rare events and has developed diverse tools to analyze algorithms.
+    (confirmed) is a professor in Applied and Computational Mathematics at Princeton University. His current research interests lie at the intersection of mathematics, physics, and machine learning. He has made important contributions to the theoretical foundations of deep neural networks, exploring questions on training dynamics and generalization. Additionally, he has driven the development of machine learning algorithms for use in computational science, including solution methods for complicated PDE problems and techniques for incorporating mathematical models into data-driven approaches. 
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://web.math.princeton.edu/~weinan/">Webpage</a>]</span></p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/animaanandkumar.jpg" | prepend:site.baseurl }}">
+    <p><b>Anima Anandkumar</b>
+    (confirmed) is a professor in Applied and Computational Mathematics at Princeton University. Her current research interests lie at the intersection of mathematics, physics, and machine learning. She has made important contributions to the theoretical foundations of deep neural networks, exploring questions on training dynamics and generalization. Additionally, she has driven the development of machine learning algorithms for use in computational science, including solution methods for complicated PDE problems and techniques for incorporating mathematical models into data-driven approaches. She has spearheaded the development of tensor algorithms, first proposed in her seminal paper, which enable efficient processing of multidimensional and multimodal data. Her contributions to Physics Informed Deep Learning, such as the Fourier Neural Operator network for solving parametric PDEs, have sparked great interest in the community.
+    <span style="color:#1a1aff;font-weight:400;">[<a href="http://tensorlab.cms.caltech.edu/users/anima/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
