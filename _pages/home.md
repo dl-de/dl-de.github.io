@@ -124,15 +124,31 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
       We invite high-quality paper submissions on the following topics:
     </p>
 
-  <p>
-  <ul>
-  <li>novel ways to use AI to understand mathematical models</li>
-  <li>novel ways to use scientific models to understand AI</li>
-  <li>stochastic differential equations to model gradient flow</li>
-  <li>deep learning to solve long standing physics problems</li>
-  <li>deep learning for high-dimensional Partial Differential Equations</li>
-</ul>
-    </p>
+<p>  
+<div class="row">
+  <div class="col-xs-12">
+    <ul>
+      <li>How can DE models provide insights into DL?
+      <ul>
+        <li>What families of functions are best represented by different neural architectures?</li>
+        <li>Can this connection guide the design of new neural architectures?</li>
+        <li>Can DE models be used to derive bounds on generalization error?</li>
+        <li>What insights can DE models provide into training dynamics?</li>
+        <li>Can these insights guide the design of weight initialization schemes?</li>
+      </ul>
+      </li>
+      <li>How can DL be used to enhance the analysis of DEs?
+      <ul>
+        <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …)</li>
+        <li>Solving highly parameterized DEs </li>
+        <li>Solving inverse problems</li>
+        <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)</li>
+      </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+</p>
 
 
   <p> <span style="font-weight:500;">Submission:</span>
@@ -172,38 +188,30 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
 
 <div class="row">
   <div class="col-xs-12">
+      <p><b>(EST) morning </b></p>
     <ul>
-      <li>08:30 AM : Opening Remarks                        </li>
-      <br>
-      <p><b>Scientific Models to understand Deep Learning</b></p>
-      <li>08:40 AM : Invited Speaker 1: Surya Ganguli - An analytic theory of generalization dynamics and transfer learning in deep linear networks  | <a href="https://google.com">Slides (still unavailable)</a> </li>
-      <li>09:20 AM : Invited Speaker 2: Terrence Tao - On the universality of the incompressible Euler equation on compact manifolds, II. Non-rigidity of Euler flows   | <a href="https://google.com">Slides (still unavailable)</a> </li>
-      <li>10:00 AM :  </li>
-      <li>10:15 AM : Spotlights (6*2min)
-      <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <!-- <li></li> -->
-      </ul>
-      </li>
-      <li>10:30 AM : Coffee Break (20min)                   </li>
-      <li>10:50 AM : Invited Speaker 3: Aasa Feragen - Geometry and Statistics: Manifolds and Stratified Spaces  | <a href="https://google.com">Slides (still unavailable)</a>  </li>
-      <li>11:30 AM : Invited Speaker 4: Hava Siegelmann - Analog computation via neural networks | <a href="https://google.com">Slides (still unavailable)</a></li>
-      <li>12:10 PM : Poster Session <b>Lunch provided!</b> </li>
-      <li>01:10 PM : Break                                  </li>
-      <br>
-      <p><b>Deep Learning to understand Scientific Models</b></p>
-      <li>01:40 PM : Invited Speaker 5: Konstantinos Spiliopoulos - DGM: A deep learning algorithm for solving partial differential equations  | <a href="https://google.com">Slides (still unavailable)</a></li>
-      <li>02:20 PM : Invited Speaker 6: Matthias Troyer - DGM: A deep learning algorithm for solving partial differential equations.      | <a href="https://google.com">Slides (still unavailable)</a></li>
-      <li>03:00 PM : Coffee Break & Poster Session (50 mins)</li>
-      <li>03:50 PM : Invited Speaker 7: Weinan E - DeePMD-kit: A deep learning package for many-body potential energy representation and molecular dynamics   | <a href="https://google.com">Slides (still unavailable)</a></li>
-      <li>04:30 PM : Invited Speaker 8: Amy Greenwald - Learning Equilibria of Simulation-Based Games | <a href="https://google.com">Slides (still unavailable)</a></li>
-      <li>05:10 PM : Panel Discussion                       </li>
-      <li>06:00 PM : Closing Remarks                        </li>
+      <li>08:00 AM : Introduction and opening remarks
+      <li>08:15 AM : Invited Talk 1  | <a href="https://google.com">Slides (still unavailable)</a> </li>
+      <li>09:00 AM : Contributed Talk 1  | <a href="https://google.com">Slides (still unavailable)</a> </li>
+      <li>09:15 AM : Coffee Break</li>
+      <li>09:20 AM : Poster Spotlights (4x5min)</li>
+      <li>09:30 AM : Poster Session 1</li>
+      <li>10:15 AM : Invited Talk 2</li>
+      <li>11:00 AM : Coffee Break</li>
+      <li>11:05 AM : Panel discussion      </li>
+      <li>12:15 AM : Lunch Break                </li>
+     </ul>
+     <p><b>(EST) afternoon </b></p>
+     <ul>
+      <li>13:15 AM : Invited Talk 3</li>
+      <li>14:00 AM : Contributed Talk 2</li>
+      <li>14:15 AM : Coffee Break</li>
+      <li>14:20 AM : Poster Spotlights 2</li>
+      <li>14:30 AM : Poster Session 2</li>
+      <li>15:15 AM : Invited Talk 4</li>
+      <li>16:00 AM : Contributed Talk 3</li>
+      <li>16:15 AM : Contributed Talk 4</li>
+      <li>16:30 AM : End</li>
     </ul>
   </div>
 </div>
