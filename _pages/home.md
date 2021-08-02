@@ -331,7 +331,7 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
       <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://lucehe.github.io/">Luca Herrtti</a>
+      <a href="https://lucehe.github.io/">Luca Herranz-Celotti</a>
       <h6>Université de Sherbrooke</h6>
     </div>
   </div>
