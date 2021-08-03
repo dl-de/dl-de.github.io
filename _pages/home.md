@@ -336,6 +336,16 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
   </div>
 
   <div class="col-xs-3">
+    <a href="https://martinmagill.netlify.app/">
+      <img class="people-pic" src="{{ "/static/img/people/martinmagill.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://martinmagill.netlify.app/">Martin Magill</a>
+      <h6>Ontario Tech University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
     <a href="https://lucehe.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
     </a>
