@@ -311,8 +311,17 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
     </a>
     <div class="people-name">
       <a href="http://rlily.hu/">Lily Hu</a>
-      <h6>Salesforce Research</h6>
-      <h6>University of California, Berkeley</h6>
+      <h6>Google Research</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
+    <a href="kidger.site">
+      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="kidger.site">Patrick Kidger/a>
+      <h6>University of Oxford</h6>
     </div>
   </div>
 
