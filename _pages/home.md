@@ -320,7 +320,7 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
       <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="kidger.site">Patrick Kidger/a>
+      <a href="kidger.site">Patrick Kidger</a>
       <h6>University of Oxford</h6>
     </div>
   </div>
