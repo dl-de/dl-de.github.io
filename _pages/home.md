@@ -355,7 +355,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <h6>Rutgers, The State University of New Jersey</h6>
     </div>
   </div>
-  </div>
 
   <div class="col-xs-3">
     <a href="https://zymrael.github.io/">
