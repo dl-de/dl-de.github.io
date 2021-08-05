@@ -281,16 +281,6 @@ We will be recruiting additional reviewers from within the author pool.
 </div>
 
 
-<div class="row">
-<div class="col-xs-12">
-  <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-
-  </ul>
-</div>
-</div>
 
 <div class="row" id="organizers">
   <div class="col-xs-12">
