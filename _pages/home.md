@@ -51,37 +51,11 @@ Conversely, DEs have also been used as mathematical models of the neural archite
 
 <p>
 This workshop will aim to bring together researchers from each discipline to encourage intellectual exchanges and cultivate relationships between the two communities.
-The scope of the workshop will include all topics at the intersection of DL and DEs. Some examples (non-exhaustive list):</p>
-
-
-<div class="row">
-  <div class="col-xs-12">
-    <ul>
-      <li>How can DE models provide insights into DL?
-      <ul>
-        <li>What families of functions are best represented by different neural architectures?</li>
-        <li>Can this connection guide the design of new neural architectures?</li>
-        <li>Can DE models be used to derive bounds on generalization error?</li>
-        <li>What insights can DE models provide into training dynamics?</li>
-        <li>Can these insights guide the design of weight initialization schemes?</li>
-      </ul>
-      </li>
-      <li>How can DL be used to enhance the analysis of DEs?
-      <ul>
-        <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …)</li>
-        <li>Solving highly parameterized DEs </li>
-        <li>Solving inverse problems</li>
-        <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)</li>
-      </ul>
-      </li>
-    </ul>
-  </div>
-</div>
-
+The scope of the workshop spans topics at the intersection of DL and DEs, including theory of DL and DEs, neural differential equations, solving DEs and inverse problems with neural networks, and more. </p>
 
 
 <p>
-We will be recruiting additional reviewers from within the author pool.
+
 </p>
 
 <br>
@@ -121,7 +95,7 @@ We will be recruiting additional reviewers from within the author pool.
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We invite high-quality paper submissions on the following topics:
+      We invite high-quality paper submissions on the intersection of DEs and DL. Some examples (non-exhaustive list):
     </p>
 
 <p>  
