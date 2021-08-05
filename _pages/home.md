@@ -361,7 +361,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="https://zymrael.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/michaelpoli.PNG" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/michaelpoli.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://zymrael.github.io/">Michael Poli</a>
