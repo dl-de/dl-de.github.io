@@ -170,7 +170,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>08:15 AM : Invited Talk 1  | <a href="https://google.com">Slides (still unavailable)</a> </li>
       <li>09:00 AM : Contributed Talk 1  | <a href="https://google.com">Slides (still unavailable)</a> </li>
       <li>09:15 AM : Coffee Break</li>
-      <li>09:20 AM : Poster Spotlights (5x2min)</li>
+      <li>09:20 AM : Poster Spotlights 1 (5x2min)</li>
       <li>09:30 AM : Poster Session 1</li>
       <li>10:15 AM : Invited Talk 2</li>
       <li>11:00 AM : Coffee Break</li>
@@ -182,7 +182,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>13:15 AM : Invited Talk 3</li>
       <li>14:00 AM : Contributed Talk 2</li>
       <li>14:15 AM : Coffee Break</li>
-      <li>14:20 AM : Poster Spotlights 2</li>
+      <li>14:20 AM : Poster Spotlights 2 (5x2min)</li>
       <li>14:30 AM : Poster Session 2</li>
       <li>15:15 AM : Invited Talk 4</li>
       <li>16:00 AM : Contributed Talk 3</li>
