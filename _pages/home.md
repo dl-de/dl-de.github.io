@@ -239,8 +239,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 </div><br>
 
 
-Buchanan,Celotti,Garg,Hu,Jonsson,Kidger,Magill,Massaroli,Ortiz,Poli,Rrapaj
-
 <div class="row" id="recordings">
     <div class="col-xs-12">
     <h2>Recordings</h2>
@@ -250,7 +248,7 @@ Buchanan,Celotti,Garg,Hu,Jonsson,Kidger,Magill,Massaroli,Ortiz,Poli,Rrapaj
 <div class="row">
   <div class="col-xs-12">
     <p>
-    The workshop will be broadcasted via Zoom and poster sessions will be on Gathertown. We will upload the recordings on YouTube</p>
+    The workshop will be broadcasted via Zoom and poster sessions will be on Gathertown. We will upload the recordings on YouTube.</p>
   </div>
 </div>
 
