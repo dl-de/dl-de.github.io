@@ -1,8 +1,8 @@
 ---
 layout: project
-urltitle:  "Scientific Models and Machine Learning (SMMaL)"
-title: "Scientific Models and Machine Learning (SMMaL)"
-categories: nips, neurips, vancouver, canada, workshop, mathematics, machine learning, smal, 2019, neurips19
+urltitle:  "The Symbiosis of Deep Learning and Differential Equations (DLDE)"
+title: "The Symbiosis of Deep Learning and Differential Equations (DLDE)"
+categories: nips, neurips, vancouver, canada, workshop, differential equations, machine learning, dlde, 2021, neurips21
 permalink: /
 <!-- favicon: /static/img/embodiedqa/favicon.png -->
 bibtex: true
@@ -16,7 +16,7 @@ acknowledgements: ""
     <center><h1>The Symbiosis of Deep Learning and Differential Equations (DLDE)</h1></center>
     <center><h2>NeurIPS 2021 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      Tuesday, 14th December, 08:00 AM to 06:30 PM,
+      Tuesday, 14th December, 08:00 AM to 06:30 PM EST,
       Virtual Workshop
     </span></center>
   </div>
@@ -301,7 +301,9 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <h6>Google Research</h6>
     </div>
   </div>
+  </div>
 
+<div class="row">
   <div class="col-xs-3">
     <a href="http://thorjonsson.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/thor.jpg" | prepend:site.baseurl }}">
@@ -341,7 +343,9 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <h6>University of Tokyo, RIKEN</h6>
     </div>
   </div>
-  
+  </div>
+
+  <div class="row">
   <div class="col-xs-3">
     <a href="https://www.ece.rutgers.edu/jorge-ortiz">
       <img class="people-pic" src="{{ "/static/img/people/jortiz.jpg" | prepend:site.baseurl }}">
@@ -372,7 +376,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <h6>University of California, Berkley</h6>
     </div>
   </div>
-
+  </div>
 <hr>
 
 
