@@ -337,6 +337,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </div>
   </div>
 
+
   <div class="col-xs-3">
     <a href="https://scholar.google.com/citations?user=IwCfl4UAAAAJ&hl=en">
       <img class="people-pic" src="{{ "/static/img/people/stefanomassaroli.jpg" | prepend:site.baseurl }}">
