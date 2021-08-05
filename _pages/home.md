@@ -381,7 +381,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <hr>
 
 
-
 <div class="row">
   <div class="col-xs-12">
     <h2>Sponsors</h2>
