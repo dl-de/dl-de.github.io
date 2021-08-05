@@ -26,7 +26,9 @@ acknowledgements: ""
 
 <div class="row" id="intro"> 
   <div class="col-md-12">
+   <center>
     <img src="{{ "/static/img/banner/epic.png" | prepend:site.baseurl }}"> 
+    </center>
     <p> </p> 
   </div> 
 </div>
