@@ -286,11 +286,11 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 
   <div class="col-xs-3">
-    <a href="kidger.site">
+    <a href="https://animesh.garg.tech/">
       <img class="people-pic" src="{{ "/static/img/people/animeshgarg.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="kidger.site">Animesh Garg</a>
+      <a href="https://animesh.garg.tech/">Animesh Garg</a>
       <h6>University of Toronto, Vector Institute, NVIDIA</h6>
     </div>
   </div>
