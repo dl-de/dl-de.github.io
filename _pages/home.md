@@ -266,11 +266,11 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <div class="row">
   
    <div class="col-xs-3">
-    <a href="kidger.site">
+    <a href="https://www.ekbuchanan.com/">
       <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="kidger.site">Kelly Buchanan</a>
+      <a href="https://www.ekbuchanan.com/">Kelly Buchanan</a>
       <h6>Columbia University</h6>
     </div>
   </div>
@@ -338,11 +338,11 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 
   <div class="col-xs-3">
-    <a href="kidger.site">
+    <a href="https://scholar.google.com/citations?user=IwCfl4UAAAAJ&hl=en">
       <img class="people-pic" src="{{ "/static/img/people/stefanomassaroli.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="kidger.site">Stefano Massaroli</a>
+      <a href="https://scholar.google.com/citations?user=IwCfl4UAAAAJ&hl=en">Stefano Massaroli</a>
       <h6>University of Tokyo, RIKEN</h6>
     </div>
   </div>
