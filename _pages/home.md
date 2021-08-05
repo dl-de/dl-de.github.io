@@ -142,9 +142,10 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   <p>
   We also welcome recently published papers that are strongly within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous and will be eligible for poster sessions after a light review process.
   </p>
-
   <p>
   We will be inviting additional reviewers from the author pool, and plan to match junior and senior reviewers. We will ensure each paper has at least a senior reviewer, with decisions made by the organizing committee.
+  </p>
+  <p>
   Please submit your paper to the following address: to be specified.
   If you have any questions, send an email to one of the following: [luca.celotti@usherbrooke.ca, poli@stanford.edu]
   </p>
@@ -338,7 +339,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="kidger.site">
-      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/stefanomassaroli.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="kidger.site">Stefano Massaroli</a>
@@ -360,7 +361,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="https://zymrael.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/michaelpoli.PNG" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://zymrael.github.io/">Michael Poli</a>
@@ -422,9 +423,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Thanks to <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> and
-      <span style="color:#1a1aff;font-weight:400;"> <a href="nips2018vigil.github.io">nips2018vigil.github.io</a></span>
-      for the webpage format.
+      Thanks to <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a> for the webpage format.
     </p>
   </div>
 </div>
