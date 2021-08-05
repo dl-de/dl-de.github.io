@@ -24,12 +24,12 @@ acknowledgements: ""
 
 <hr>
 
-<!-- <div class="row" id="intro"> -->
-  <!-- <div class="col-md-12"> -->
-    <!-- <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}"> -->
-    <!-- <p> Image credit: [2, 28, 12, 11, 15-21, 26]</p> -->
-  <!-- </div> -->
-<!-- </div> -->
+<div class="row" id="intro"> 
+  <div class="col-md-12">
+    <img src="{{ "/static/img/epic.jpg" | prepend:site.baseurl }}"> -->
+    <p> </p> 
+  </div> 
+</div>
 
 <br>
 <div class="row" id="intro">
