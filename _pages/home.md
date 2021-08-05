@@ -304,7 +304,6 @@ Buchanan,Celotti,Garg,Hu,Jonsson,Kidger,Magill,Massaroli,Ortiz,Poli,Rrapaj
     </div>
   </div>
 
-
   <div class="col-xs-3">
     <a href="http://thorjonsson.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/thor.jpg" | prepend:site.baseurl }}">
