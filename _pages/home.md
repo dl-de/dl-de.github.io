@@ -153,7 +153,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 
 
-
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Schedule</h2>
@@ -240,6 +239,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 </div><br>
 
 
+Buchanan,Celotti,Garg,Hu,Jonsson,Kidger,Magill,Massaroli,Ortiz,Poli,Rrapaj
 
 <div class="row" id="recordings">
     <div class="col-xs-12">
@@ -264,6 +264,36 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   
+   <div class="col-xs-3">
+    <a href="kidger.site">
+      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="kidger.site">Kelly Buchanan</a>
+      <h6>Columbia University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
+    <a href="https://lucehe.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://lucehe.github.io/">Luca Herranz-Celotti</a>
+      <h6>Université de Sherbrooke</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
+    <a href="kidger.site">
+      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="kidger.site">Animesh Garg</a>
+      <h6>University of Toronto, Vector Institute, NVIDIA</h6>
+    </div>
+  </div>
+
   <div class="col-xs-3">
     <a href="http://rlily.hu/">
       <img class="people-pic" src="{{ "/static/img/people/Lily.jpg" | prepend:site.baseurl }}">
@@ -271,36 +301,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <div class="people-name">
       <a href="http://rlily.hu/">Lily Hu</a>
       <h6>Google Research</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="kidger.site">
-      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="kidger.site">Patrick Kidger</a>
-      <h6>University of Oxford</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="kidger.site">
-      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://zymrael.github.io/">Michael Poli</a>
-      <h6>Stanford University</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="kidger.site">
-      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="kidger.site">Stefano Massaroli</a>
-      <h6>University of Tokyo, RIKEN</h6>
     </div>
   </div>
 
@@ -316,6 +316,16 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 
   <div class="col-xs-3">
+    <a href="kidger.site">
+      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="kidger.site">Patrick Kidger</a>
+      <h6>University of Oxford</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
     <a href="https://martinmagill.netlify.app/">
       <img class="people-pic" src="{{ "/static/img/people/martinmagill.png" | prepend:site.baseurl }}">
     </a>
@@ -325,13 +335,14 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </div>
   </div>
 
+
   <div class="col-xs-3">
-    <a href="https://lucehe.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
+    <a href="kidger.site">
+      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://lucehe.github.io/">Luca Herranz-Celotti</a>
-      <h6>Université de Sherbrooke</h6>
+      <a href="kidger.site">Stefano Massaroli</a>
+      <h6>University of Tokyo, RIKEN</h6>
     </div>
   </div>
   
@@ -347,12 +358,22 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 
   <div class="col-xs-3">
+    <a href="https://zymrael.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://zymrael.github.io/">Michael Poli</a>
+      <h6>Stanford University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
     <a href="kidger.site">
       <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="kidger.site">Animesh Garg</a>
-      <h6>University of Toronto, Vector Institute, NVIDIA</h6>
+      <a href="kidger.site">Ermal Rrapaj</a>
+      <h6>University of California, Berkley</h6>
     </div>
   </div>
 
