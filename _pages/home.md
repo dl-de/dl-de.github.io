@@ -16,7 +16,7 @@ acknowledgements: ""
     <center><h1>The Symbiosis of Deep Learning and Differential Equations (DLDE)</h1></center>
     <center><h2>NeurIPS 2021 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      Tuesday, 14th December, 08:00 AM to 06:30 PM EST,
+      Tuesday, 14th December, 08:00 AM to 04:30 PM EST,
       Virtual Workshop
     </span></center>
   </div>
@@ -126,7 +126,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 </div>
 </p>
 
-
   <p> <span style="font-weight:500;">Submission:</span>
   <br/>
     Accepted papers will be presented during joint poster sessions. 
@@ -145,6 +144,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </p>
 
   <p>
+  We will be inviting additional reviewers from the author pool, and plan to match junior and senior reviewers. We will ensure each paper has at least a senior reviewer, with decisions made by the organizing committee.
   Please submit your paper to the following address: to be specified.
   If you have any questions, send an email to one of the following: [luca.celotti@usherbrooke.ca, poli@stanford.edu]
   </p>
