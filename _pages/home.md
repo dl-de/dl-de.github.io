@@ -51,7 +51,7 @@ Conversely, DEs have also been used as mathematical models of the neural archite
 
 <p>
 This workshop will aim to bring together researchers from each discipline to encourage intellectual exchanges and cultivate relationships between the two communities.
-The scope of the workshop will include important topics at the intersection of DL and DEs, such as:</p>
+The scope of the workshop will include all topics at the intersection of DL and DEs. Some examples (non-exhaustive list):</p>
 
 
 <div class="row">
@@ -81,7 +81,7 @@ The scope of the workshop will include important topics at the intersection of D
 
 
 <p>
-We expect to publish around 40 articles, out of 80 submissions, and 200 attendees. We plan to crowdsource revisions so every main author to submit an article is expected to review 3-5 submissions.
+We will be recruiting additional reviewers from within the author pool.
 </p>
 
 <br>
@@ -165,12 +165,12 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
       <span style="color:#1a1aff;font-weight:400;"><a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles">NeurIPS format</a></span> and anonymous. The review process is double-blind.
   </p>
   <p>
-  We also welcome published papers that are within the scope of the workshop (without re-formatting). This specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.
+  We also welcome recently published papers that are strongly within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous and will be eligible for poster sessions after a light review process.
   </p>
 
   <p>
   Please submit your paper to the following address: to be specified.
-  If you have any question, send an email to: luca.celotti@usherbrooke.ca
+  If you have any questions, send an email to one of the following: [luca.celotti@usherbrooke.ca, poli@stanford.edu]
   </p>
 
   </div>
@@ -280,11 +280,6 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
   </div>
 </div>
 
-<div class="row" id="accepted-papers">
-  <div class="col-xs-12">
-    <h2>Accepted Papers</h2>
-  </div>
-</div>
 
 <div class="row">
 <div class="col-xs-12">
@@ -326,6 +321,27 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
   </div>
 
   <div class="col-xs-3">
+    <a href="kidger.site">
+      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://zymrael.github.io/">Michael Poli</a>
+      <h6>Stanford University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
+    <a href="kidger.site">
+      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="kidger.site">Stefano Massaroli</a>
+      <h6>University of Tokyo, RIKEN</h6>
+    </div>
+  </div>
+
+
+  <div class="col-xs-3">
     <a href="http://thorjonsson.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/thor.jpg" | prepend:site.baseurl }}">
     </a>
@@ -364,6 +380,16 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
       <h6>Rutgers, The State University of New Jersey</h6>
     </div>
   </div>
+  </div>
+
+  <div class="col-xs-3">
+    <a href="kidger.site">
+      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="kidger.site">Animesh Garg</a>
+      <h6>University of Toronto, Vector Institute, NVIDIA</h6>
+    </div>
   </div>
 
 <hr>
@@ -418,74 +444,6 @@ We expect to publish around 40 articles, out of 80 submissions, and 200 attendee
 </div>
 {% endif %}
 
-<div class="row">
-  <div class="col-xs-12">
-    <h2>References</h2>
-  </div>
-</div>
-<div class="row">
-  <a id="note1" href="#note1ref">[1]</a> Q. Li, C. Tai and W. E 
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1511.06251.pdf">Stochastic modified equations and adaptive stochastic gradient algorithms.</a></span> 
-  ICML, 2017.
-
-  <br><a id="note1" href="#note1ref">[2]</a> P. Chaudhari and S. Soatto  
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1710.11029.pdf">Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks.</a></span> 
-  ICLR, 2018.
-
-  <br><a id="note3" href="#note3ref">[3]</a> G. S. Dhillon1, K. Azizzadenesheli, Z. C. Lipton, J. Bernstein, J. Kossaifi, A. Khanna, A. Anandkumar
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://openreview.net/pdf?id=H1uR4GZRZ">Stochastic Activation Pruning for Robust Adversarial Defense.</a></span> 
-  ICLR, 2018.
-  
-  
-
-  
-  <br><a id="note4" href="#note4ref">[4]</a> H.T. Siegelmann and E.D. Sontag
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://pdf.sciencedirectassets.com/272574/1-s2.0-S0022000000X00360/1-s2.0-S0022000085710136/main.pdf?x-amz-security-token=AgoJb3JpZ2luX2VjEIP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIG7N1TvjUHLWQrdS8tQz3KTq2a1Tj4xGM58709NGZjTUAiEAg9EROQsxFp%2F%2FaSRR2CLGjGFF3af76eh64gnUnO%2B14Ukq4wMIrP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARACGgwwNTkwMDM1NDY4NjUiDGcHqSFyN5NbhLF2JCq3A49Xw3XDjCOBugnZhO0PdiVRwbLwWrOpy8ErrabGYltqbK7D0ayZCutvH4OHhW1iflrPgatXtJsp1iEnCPj%2BxvbS%2Fc2zsOGDEdxyEMiE47un2GXKovQOTrwmqox8fEuFK0Ip6cLby%2F4fPscc5FV9uTwEyUcbX6dMEcIdeJW1VvAKZPucFX6xHQYDDPfis8Rb3vw8%2F6RjpVI4kLrp%2FdyYzL9UgjwrAWMhelbkPqbd7qnCXHBQTAWdMox5DFuJy2bWfuLpm%2FYTJgRTb2JNvO%2BkgaHrdhoEpGCANq5XdVN8T3COo4%2B8SXAg1X%2FcyMf5JD0nsW1We6myTDnF%2FDoub4UQIN3l4loxC1dwz9dyWBWODknHdzlDPagu%2FiRJfgwIYwVcKgYNaa7a0NlcFPAOgTuKb1IHSClmlfnQLPOuIfgys9ckGcsZ%2FZnhESM4DaozCeqj%2FnPx0NtSotfquXVJoXkS9h7S1WG1nJ4ZZ%2BaNsQLbmV3dVZoyNqPNLkzSTBE8fNNLspqSxRd9ZQm6dXeJYbTGEFP3azqZ86BtSpxNaUEG1bYyp5hCO%2BUHHT5LxE05Iub5GgksL2WvcQQw7O3%2F5wU6tAFyMBLu0kulw3zYCyB9qOF0%2FuhAUXfead08i%2BZAcafQKS92boEElJN5cUop0NXOnsdnoZNrecaFhwUptgBrrtYPOwnLKs3ifhucSrTg3xG%2BHEOF%2BLnB4qGmslweCS2UHAwoPxUXgCMNWQaWTFAhNnpMxDbAdtGpI7tOc2pmZbF1kiR%2Bk%2BZFXqWyeoN649nKg41xJbBF9XbcsR16nKN%2BiQgV9%2F3VNcL4Up9Wp0NUCiBHMEsZ8Yg%3D&AWSAccessKeyId=ASIAQ3PHCVTY24J2UZLE&Expires=1560280614&Signature=2EA9ajQ7E7lxnKGcVfOUEIznF2Q%3D&hash=ea8753eb8f32e979b698ea2e36e2cf36a9f1b28926044de04b6a889359131625&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0022000085710136&tid=spdf-ae0b997b-814f-400f-8aba-4ae0a00dc595&sid=406effae72007249516a78029a955bfad9dfgxrqa&type=client">On the Computational Power of Neural Nets.</a></span> 
-  Science, 1995.
-  
-  <br><a id="note5" href="#note5ref">[5]</a> H.T. Siegelmann and E.D. Sontag
-  <span style="color:#1a1aff;font-weight:400;"> <a href="http://www.sontaglab.org/FTPDIR/siegelmann_sontag_tcs1994.pdf">Analog computation via neural networks.</a></span> 
-  Science, 1994.  
-  
-  
-  
-  
-  
-  
-  
-  
-  <br><a id="note6" href="#note6ref">[6]</a> G. Carleo and M. Troyer
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://science.sciencemag.org/content/355/6325/602">Solving the Quantum Many-Body Problem with Artificial Neural Networks.</a></span> 
-  Science, 2017.
-  
-  <br><a id="note7" href="#note7ref">[7]</a> J. Sirignano and K. Spiliopoulos  
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://www.sciencedirect.com/science/article/pii/S0021999118305527">DGM: A deep learning algorithm for solving partial differential equations.</a></span>
-  Science, 2018.
-  
-  <br><a id="note8" href="#note8ref">[8]</a> R. Porotti, D. Tamascelli, M. Restelli, E. Prati 
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/abs/1901.06603">Coherent Transport of Quantum States by Deep Reinforcement Learning.</a></span>
-  ArXiv, 2019.
-
-  <br>[9] T. Wu, M. Tegmark
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1810.10525.pdf">Toward an AI Physicist for Unsupervised Learning.</a></span>
-  ArXiv, 2018.
-
-  <br>[10] S. S. Schoenholz, J. Gilmer, S. Ganguli, J. Sohl-Dickstein
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://openreview.net/pdf?id=H1W1UN9gg">Deep Information Propagation.</a></span>
-  ICLR, 2017.
-
-
-  <br>[11] Z. Nado, J. Snoek, B. Xu, R. Grosse, D. Duvenaud, and J. Martens
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://openreview.net/pdf?id=ry-Se9kvG
-">Stochastic Gradient Langevin Dynamics that Exploit Neural Network Structure.</a></span>
-  ICLR, 2018.
-
-  <br>[12] A. Karpatne, G. Atluri, J. H. Faghmous, M. Steinbach, A. Banerjee, A. Ganguly, S. Shekhar, N. Samatova, and V. Kumar
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1612.08544.pdf">Theory-guided Data Science: A New Paradigm for Scientific Discovery from Data.</a></span>
-  IEEE Transactions on Knowledge and Data Engineering, 2017.
-
-
-</div>
 
 <br><br><br><br><br><br><br>
 
