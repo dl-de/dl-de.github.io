@@ -334,7 +334,6 @@ Buchanan,Celotti,Garg,Hu,Jonsson,Kidger,Magill,Massaroli,Ortiz,Poli,Rrapaj
     </div>
   </div>
 
-
   <div class="col-xs-3">
     <a href="kidger.site">
       <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
