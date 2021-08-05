@@ -369,11 +369,11 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 
   <div class="col-xs-3">
-    <a href="kidger.site">
-      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+    <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">
+      <img class="people-pic" src="{{ "/static/img/people/ermalrrapaj.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="kidger.site">Ermal Rrapaj</a>
+      <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">Ermal Rrapaj</a>
       <h6>University of California, Berkley</h6>
     </div>
   </div>
