@@ -287,7 +287,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="kidger.site">
-      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/animeshgarg.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="kidger.site">Animesh Garg</a>
