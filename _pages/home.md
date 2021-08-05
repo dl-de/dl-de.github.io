@@ -51,7 +51,7 @@ Conversely, DEs have also been used as mathematical models of the neural archite
 
 <p>
 This workshop will aim to bring together researchers from each discipline to encourage intellectual exchanges and cultivate relationships between the two communities.
-The scope of the workshop spans topics at the intersection of DL and DEs, including theory of DL and DEs, neural differential equations, solving DEs and inverse problems with neural networks, and more. </p>
+The scope of the workshop spans topics at the intersection of DL and DEs, including theory of DL and DEs, neural differential equations, solving DEs with neural networks, and more. </p>
 
 
 <p>
