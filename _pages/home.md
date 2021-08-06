@@ -201,7 +201,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 </div><br>
 
 
-
 <div class="row">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/nehayadav2.jpg" | prepend:site.baseurl }}">
@@ -220,7 +219,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <span style="color:#3a92d6;font-weight:400;">[<a href="https://mat.univie.ac.at/~grohs/">Webpage</a>]</span></p>
   </div>
 </div><br>
-
 
 
 <div class="row">
@@ -275,15 +273,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </div>
   </div>
 
-  <div class="col-xs-3">
-    <a href="https://lucehe.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://lucehe.github.io/">Luca Herranz-Celotti</a>
-      <h6>Université de Sherbrooke</h6>
-    </div>
-  </div>
 
   <div class="col-xs-3">
     <a href="https://animesh.garg.tech/">
@@ -292,6 +281,16 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <div class="people-name">
       <a href="https://animesh.garg.tech/">Animesh Garg</a>
       <h6>University of Toronto, Vector Institute, NVIDIA</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
+    <a href="https://lucehe.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://lucehe.github.io/">Luca Herranz-Celotti</a>
+      <h6>Université de Sherbrooke</h6>
     </div>
   </div>
 
