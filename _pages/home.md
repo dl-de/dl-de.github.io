@@ -143,7 +143,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   We also welcome recently published papers that are strongly within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous and will be eligible for poster sessions after a light review process.
   </p>
   <p>
-  We will be inviting additional reviewers from the author pool, and plan to match junior and senior reviewers. We will ensure each paper has at least a senior reviewer, with decisions made by the organizing committee.
+  Authors may be asked to review other workshop submissions. 
   </p>
   <p>
   Please submit your paper to the following address: to be specified.
@@ -170,7 +170,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>08:15 AM : Invited Talk 1  | <a href="https://google.com">Slides (still unavailable)</a> </li>
       <li>09:00 AM : Contributed Talk 1  | <a href="https://google.com">Slides (still unavailable)</a> </li>
       <li>09:15 AM : Coffee Break</li>
-      <li>09:20 AM : Poster Spotlights (4x5min)</li>
+      <li>09:20 AM : Poster Spotlights (2x5min)</li>
       <li>09:30 AM : Poster Session 1</li>
       <li>10:15 AM : Invited Talk 2</li>
       <li>11:00 AM : Coffee Break</li>
