@@ -206,7 +206,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/nehayadav2.jpg" | prepend:site.baseurl }}">
     <p><b>Neha Yadav</b>
-    (confirmed) is an assistant professor at the National Institute of Technology Hamirpur. Her research focuses on using neural networks and other machine learning techniques to solve differential equations, and exploring new optimization algorithms such as harmony search algorithms or particle swarm optimization. In addition to her many publications, she is a co-author of ``An Introduction to Neural Network Methods for Differential Equations,'' the first textbook on the subject. 
+    (confirmed) is an assistant professor at the National Institute of Technology Hamirpur. Her research focuses on using neural networks and other machine learning techniques to solve differential equations, and exploring new optimization algorithms such as harmony search algorithms or particle swarm optimization. In addition to her many publications, she is a co-author of ''An Introduction to Neural Network Methods for Differential Equations'', the first textbook on the subject. 
     <span style="color:#3a92d6;font-weight:400;">[<a href="https://portfolios.nith.ac.in/index.php?/nith/dr-neha-yadav-">Webpage</a>]</span></p>
   </div>
 </div><br>
