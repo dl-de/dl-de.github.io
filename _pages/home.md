@@ -73,7 +73,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Paper Submission Deadline</td>
+          <td>Submission Deadline</td>
           <td>September 17th,  2021 - Midnight Pacific Time</td>
         </tr>
         <tr>
@@ -91,13 +91,13 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row" id="cfp">
   <div class="col-xs-12">
-    <h2>Call for Papers</h2>
+    <h2>Call for Extended Abstracts</h2>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We invite high-quality paper submissions on the intersection of DEs and DL. Some examples (non-exhaustive list):
+      We invite high-quality extended abstract submissions on the intersection of DEs and DL. Some examples (non-exhaustive list):
     </p>
 
 <p>  
@@ -128,25 +128,23 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <p> <span style="font-weight:500;">Submission:</span>
   <br/>
-    Accepted papers will be presented during joint poster sessions. 
+    Accepted submissions will be presented during joint poster sessions and will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
     Exceptional submissions will be either selected for four 15-minute contributed talks
     or eight 5-minute spotlight oral presentations. 
-    Accepted papers will be made publicly available as non-archival reports,
-    allowing future submissions to archival conferences or journals.
   </p>
 
   <p>
   Submissions should be up to 4 pages excluding references, acknowledgements, and supplementary material, and should be
-      <span style="color:#1a1aff;font-weight:400;"><a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles">NeurIPS format</a></span> and anonymous. The review process is double-blind.
+      <span style="color:#3a92d6;font-weight:400;"><a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles">NeurIPS format</a></span> and anonymous. Long appendices are permitted but strongly discouraged. The review process is double-blind.
   </p>
   <p>
-  We also welcome recently published papers that are strongly within the scope of the workshop (without re-formatting). These specific papers do not have to be anonymous and will be eligible for poster sessions after a light review process.
+  We also welcome submissions of recently published work that is strongly within the scope of the workshop (with proper formatting). We encourage the authors of such submissions to focus on accessibility to the wide NeurIPS community while distilling their work into an extended abstract. Submission of this type will be eligible for poster sessions after a lighter review process.
   </p>
   <p>
   Authors may be asked to review other workshop submissions. 
   </p>
   <p>
-  Please submit your paper to the following address: to be specified.
+  Please submit your extended abstract to the following address: to be specified.
   If you have any questions, send an email to one of the following: [luca.celotti@usherbrooke.ca, poli@stanford.edu]
   </p>
 
@@ -164,7 +162,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   <div class="col-xs-12">
-    <p><b>(EST) morning </b></p>
+    <p><b>(EST) Morning </b></p>
     <ul>
       <li>08:00 AM : Introduction and opening remarks</li>
       <li>08:15 AM : Invited Talk 1 </li>
@@ -177,7 +175,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>11:05 AM : Panel discussion      </li>
       <li>12:15 AM : Lunch Break                </li>
     </ul>
-    <p><b>(EST) afternoon </b></p>
+    <p><b>(EST) Afternoon </b></p>
     <ul>
       <li>13:15 AM : Invited Talk 3</li>
       <li>14:00 AM : Contributed Talk 2</li>
@@ -207,7 +205,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/nehayadav.jpg" | prepend:site.baseurl }}">
     <p><b>Neha Yadav</b>
     (confirmed) is an assistant professor at the National Institute of Technology Hamirpur. Her research focuses on using neural networks and other machine learning techniques to solve differential equations, and exploring new optimization algorithms such as harmony search algorithms or particle swarm optimization. In addition to her many publications, she is a co-author of ``An Introduction to Neural Network Methods for Differential Equations,'' the first textbook on the subject. 
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://portfolios.nith.ac.in/index.php?/nith/dr-neha-yadav-">Webpage</a>]</span></p>
+    <span style="color:#3a92d6;font-weight:400;">[<a href="https://portfolios.nith.ac.in/index.php?/nith/dr-neha-yadav-">Webpage</a>]</span></p>
   </div>
 </div><br>
 
@@ -217,7 +215,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/philippgrohs.jpg" | prepend:site.baseurl }}">
     <p><b>Philipp Grohs</b>
     (confirmed) is a professor at the University of Vienna. His research interests lie in approximation theory and computational harmonic analysis. In addition, he is known for his work on numerical methods for PDEs, and has made important contributions to the development and analysis of machine learning algorithms for the numerical approximation of high-dimensional PDEs. Of particular notice is his theoretical work on error estimates for deep network approximations to the solutions of PDEs, including his proofs that neural networks overcome the curse of dimensionality in these applications.     
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://mat.univie.ac.at/~grohs/">Webpage</a>]</span></p>
+    <span style="color:#3a92d6;font-weight:400;">[<a href="https://mat.univie.ac.at/~grohs/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
@@ -228,7 +226,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/weinane.jpg" | prepend:site.baseurl }}">
     <p><b>Weinan E</b>
     (confirmed) is a professor in Applied and Computational Mathematics at Princeton University. His current research interests lie at the intersection of mathematics, physics, and machine learning. He has made important contributions to the theoretical foundations of deep neural networks, exploring questions on training dynamics and generalization. Additionally, he has driven the development of machine learning algorithms for use in computational science, including solution methods for complicated PDE problems and techniques for incorporating mathematical models into data-driven approaches. 
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://web.math.princeton.edu/~weinan/">Webpage</a>]</span></p>
+    <span style="color:#3a92d6;font-weight:400;">[<a href="https://web.math.princeton.edu/~weinan/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
@@ -237,7 +235,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/animaanandkumar.jpg" | prepend:site.baseurl }}">
     <p><b>Anima Anandkumar</b>
     (confirmed) holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At Caltech, she is the co-director of Dolcit and co-leads the AI4science initiative, along with Yisong Yue. She has spearheaded the development of tensor algorithms, first proposed in her seminal paper, which enable efficient processing of multidimensional and multimodal data. Her contributions to Physics Informed Deep Learning, such as the Fourier Neural Operator network for solving parametric PDEs, have sparked great interest in the community.    
-    <span style="color:#1a1aff;font-weight:400;">[<a href="http://tensorlab.cms.caltech.edu/users/anima/">Webpage</a>]</span></p>
+    <span style="color:#3a92d6;font-weight:400;">[<a href="http://tensorlab.cms.caltech.edu/users/anima/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
@@ -380,9 +378,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </div>
   </div>
   </div>
-<hr>
 
-<hr>
 <div class="row">
   <div class="col-xs-12">
     <h2>Acknowledgments</h2>
@@ -392,7 +388,8 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Thanks to <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
+      Thanks to <span style="color:#3a92d6;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format. Thanks to <span style="color:#3a92d6;font-weight:400;"> <a href="https://whatsonmyblackboard.wordpress.com/2014/10/28/backward-differential-equations/">whatsonmyblackboard</a></span>
+       for the cozy blackboard photo.
     </p>
   </div>
 </div>
