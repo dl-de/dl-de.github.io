@@ -318,11 +318,11 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 
   <div class="col-xs-3">
-    <a href="kidger.site">
+    <a href="https://kidger.site/">
       <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="kidger.site">Patrick Kidger</a>
+      <a href="https://kidger.site/">Patrick Kidger</a>
       <h6>University of Oxford</h6>
     </div>
   </div>
@@ -383,36 +383,9 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <hr>
 
 
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Sponsors</h2>
-  </div>
-</div>
-<a name="/sponsors"></a>
-<div class="row">
-  <div class="col-xs-12 sponsor">
-    <a href="https://merl.com/">
-      <img src="{{ "/static/img/sponsors/merl-logo-big.jpg" | prepend:site.baseurl }}">
-    </a>
-    <a href="https://deepmind.com/">
-      <img src="{{ "/static/img/sponsors/deepmind_logo.png" | prepend:site.baseurl }}">
-    </a>
-        <a href="https://ai.google/">
-      <img src="{{ "/static/img/sponsors/googlelogo.png" | prepend:site.baseurl }}">
-    </a>
-        <a href="https://iglu-chistera.github.io/">
-      <img src="{{ "/static/img/sponsors/logoIGLU-300.png" | prepend:site.baseurl }}">
-    </a>
-    <a href="http://uber.ai/">
-      <img src="{{ "/static/img/sponsors/logo_uber.jpg" | prepend:site.baseurl }}">
-    </a>
-  </div>
-</div>
-<br>
 
 
 <hr>
-
 {% if page.acknowledgements %}
 <div class="row">
   <div class="col-xs-12">
