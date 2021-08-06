@@ -382,11 +382,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 <hr>
 
-
-
-
 <hr>
-{% if page.acknowledgements %}
 <div class="row">
   <div class="col-xs-12">
     <h2>Acknowledgments</h2>
@@ -396,11 +392,10 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Thanks to <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a> for the webpage format.
+      Thanks to <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
     </p>
   </div>
 </div>
-{% endif %}
 
 
 <br><br><br><br><br><br><br>
