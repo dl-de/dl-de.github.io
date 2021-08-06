@@ -214,7 +214,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;width:auto;height:auto;overflow:hidden;" src="{{ "/static/img/people/philippgrohs.jpg" | prepend:site.baseurl }}">
+    <img class="speaker-pic" style="float:left;margin-right:50px;width:25%;height:auto;overflow:hidden;" src="{{ "/static/img/people/philippgrohs.jpg" | prepend:site.baseurl }}">
     <p><b>Philipp Grohs</b>
     (confirmed) is a professor at the University of Vienna. His research interests lie in approximation theory and computational harmonic analysis. In addition, he is known for his work on numerical methods for PDEs, and has made important contributions to the development and analysis of machine learning algorithms for the numerical approximation of high-dimensional PDEs. Of particular notice is his theoretical work on error estimates for deep network approximations to the solutions of PDEs, including his proofs that neural networks overcome the curse of dimensionality in these applications.     
     <span style="color:#3a92d6;font-weight:400;">[<a href="https://mat.univie.ac.at/~grohs/">Webpage</a>]</span></p>
