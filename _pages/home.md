@@ -138,7 +138,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <span style="color:#3a92d6;font-weight:400;"><a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles">NeurIPS format</a></span> and anonymous. Long appendices are permitted but strongly discouraged. The review process is double-blind.
   </p>
   <p>
-  We also welcome submissions of recently published work that is strongly within the scope of the workshop (with proper formatting). We encourage the authors of such submissions to focus on accessibility to the wide NeurIPS community while distilling their work into an extended abstract. Submission of this type will be eligible for poster sessions after a lighter review process.
+  We also welcome submissions of recently published work that is strongly within the scope of the workshop (with proper formatting). We encourage the authors of such submissions to focus on accessibility to the wider NeurIPS community while distilling their work into an extended abstract. Submission of this type will be eligible for poster sessions after a lighter review process.
   </p>
   <p>
   Authors may be asked to review other workshop submissions. 
