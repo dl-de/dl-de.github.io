@@ -16,7 +16,7 @@ acknowledgements: ""
     <center><h1>The Symbiosis of Deep Learning and Differential Equations (DLDE)</h1></center>
     <center><h2>NeurIPS 2021 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      December 2021, 08:00 AM to 16:30 PM EST,
+      TBA, 08:00 AM to 16:30 PM EST,
       Virtual Workshop
     </span></center>
   </div>
@@ -82,7 +82,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>December 2021</td>
+          <td>TBA</td>
         </tr>
       </tbody>
     </table>
