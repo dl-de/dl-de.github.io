@@ -144,7 +144,9 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   Authors may be asked to review other workshop submissions. 
   </p>
   <p>
-  Please submit your extended abstract to the following address: https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DLDE
+  Please submit your extended abstract to the <span style="color:#3a92d6;font-weight:400;"> <a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DLDE">following address.</a></span>
+   </p>
+    <p>
   If you have any questions, send an email to one of the following: [luca.celotti@usherbrooke.ca, poli@stanford.edu]
   </p>
 
