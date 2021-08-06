@@ -16,7 +16,7 @@ acknowledgements: ""
     <center><h1>The Symbiosis of Deep Learning and Differential Equations (DLDE)</h1></center>
     <center><h2>NeurIPS 2021 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      Tuesday, 14th December, 08:00 AM to 04:30 PM EST,
+      Tuesday, 14th December, 08:00 AM to 16:30 PM EST,
       Virtual Workshop
     </span></center>
   </div>
@@ -167,8 +167,8 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <p><b>(EST) morning </b></p>
     <ul>
       <li>08:00 AM : Introduction and opening remarks</li>
-      <li>08:15 AM : Invited Talk 1  | <a href="https://google.com">Slides (still unavailable)</a> </li>
-      <li>09:00 AM : Contributed Talk 1  | <a href="https://google.com">Slides (still unavailable)</a> </li>
+      <li>08:15 AM : Invited Talk 1 </li>
+      <li>09:00 AM : Contributed Talk 1 </li>
       <li>09:15 AM : Coffee Break</li>
       <li>09:20 AM : Poster Spotlights (2x5min)</li>
       <li>09:30 AM : Poster Session 1</li>
@@ -182,7 +182,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>13:15 AM : Invited Talk 3</li>
       <li>14:00 AM : Contributed Talk 2</li>
       <li>14:15 AM : Coffee Break</li>
-      <li>14:20 AM : Poster Spotlights 2 (5x2min)</li>
+      <li>14:20 AM : Poster Spotlights 2 (2x5min)</li>
       <li>14:30 AM : Poster Session 2</li>
       <li>15:15 AM : Invited Talk 4</li>
       <li>16:00 AM : Contributed Talk 3</li>
