@@ -126,7 +126,7 @@ pre {
 
 .people-pic {
   width: 100px;
-  height: 100px;
+  height: auto;
   border-radius: 50%;
 }
 
