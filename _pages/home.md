@@ -265,7 +265,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   
    <div class="col-xs-3">
     <a href="https://www.ekbuchanan.com/">
-      <img class="people-pic" style="width:20%;height:auto;" src="{{ "/static/img/people/kellybuchanan.png" | prepend:site.baseurl }}">
+      <img class="people-pic" style="width:auto;height:auto;" src="{{ "/static/img/people/kellybuchanan.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.ekbuchanan.com/">Kelly Buchanan</a>
