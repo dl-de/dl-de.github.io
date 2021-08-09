@@ -276,7 +276,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="https://animesh.garg.tech/">
-      <img class="people-pic" style="width:100%;height:auto;" src="{{ "/static/img/people/animeshgarg.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/animeshgarg.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://animesh.garg.tech/">Animesh Garg</a>
@@ -286,7 +286,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="https://lucehe.github.io/">
-      <img class="people-pic" style="width:100%;height:auto;" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://lucehe.github.io/">Luca Herranz-Celotti</a>
@@ -296,7 +296,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="http://rlily.hu/">
-      <img class="people-pic" style="width:100%;height:auto;" src="{{ "/static/img/people/Lily.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/Lily.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://rlily.hu/">Lily Hu</a>
@@ -308,7 +308,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <div class="row">
   <div class="col-xs-3">
     <a href="http://thorjonsson.github.io/">
-      <img class="people-pic" style="width:100%;height:auto;" src="{{ "/static/img/people/thor.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/thor.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://thorjonsson.github.io/">Thor Jonsson</a>
@@ -318,7 +318,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="https://kidger.site/">
-      <img class="people-pic" style="width:100%;height:auto;" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/patrickkidger.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://kidger.site/">Patrick Kidger</a>
@@ -328,7 +328,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="https://martinmagill.netlify.app/">
-      <img class="people-pic" style="width:100%;height:auto;" src="{{ "/static/img/people/martinmagill.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/martinmagill.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://martinmagill.netlify.app/">Martin Magill</a>
@@ -339,7 +339,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="https://scholar.google.com/citations?user=IwCfl4UAAAAJ&hl=en">
-      <img class="people-pic" style="width:100%;height:auto;" src="{{ "/static/img/people/stefanomassaroli.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/stefanomassaroli.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://scholar.google.com/citations?user=IwCfl4UAAAAJ&hl=en">Stefano Massaroli</a>
@@ -351,7 +351,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   <div class="row">
   <div class="col-xs-3">
     <a href="https://www.ece.rutgers.edu/jorge-ortiz">
-      <img class="people-pic" style="width:100%;height:auto;" src="{{ "/static/img/people/jortiz.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/jortiz.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.ece.rutgers.edu/jorge-ortiz">Jorge Ortiz</a>
@@ -361,7 +361,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="https://zymrael.github.io/">
-      <img class="people-pic" style="width:100%;height:auto;" src="{{ "/static/img/people/michaelpoli2.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/michaelpoli2.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://zymrael.github.io/">Michael Poli</a>
@@ -371,7 +371,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="col-xs-3">
     <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">
-      <img class="people-pic" style="width:100%;height:auto;" src="{{ "/static/img/people/ermalrrapaj.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/ermalrrapaj.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">Ermal Rrapaj</a>
