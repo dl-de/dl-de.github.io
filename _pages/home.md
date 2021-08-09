@@ -203,7 +203,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/nehayadav2.jpg" | prepend:site.baseurl }}">
+    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/nehayadav2.jpg" | prepend:site.baseurl }}">
     <p><b>Neha Yadav</b>
     (confirmed) is an assistant professor at the National Institute of Technology Hamirpur. Her research focuses on using neural networks and other machine learning techniques to solve differential equations, and exploring new optimization algorithms such as harmony search algorithms or particle swarm optimization. In addition to her many publications, she is a co-author of ''An Introduction to Neural Network Methods for Differential Equations'', the first textbook on the subject. 
     <span style="color:#3a92d6;font-weight:400;">[<a href="https://portfolios.nith.ac.in/index.php?/nith/dr-neha-yadav-">Webpage</a>]</span></p>
@@ -213,7 +213,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/philippgrohs.jpg" | prepend:site.baseurl }}">
+    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/philippgrohs.jpg" | prepend:site.baseurl }}">
     <p><b>Philipp Grohs</b>
     (confirmed) is a professor at the University of Vienna. His research interests lie in approximation theory and computational harmonic analysis. In addition, he is known for his work on numerical methods for PDEs, and has made important contributions to the development and analysis of machine learning algorithms for the numerical approximation of high-dimensional PDEs. Of particular notice is his theoretical work on error estimates for deep network approximations to the solutions of PDEs, including his proofs that neural networks overcome the curse of dimensionality in these applications.     
     <span style="color:#3a92d6;font-weight:400;">[<a href="https://mat.univie.ac.at/~grohs/">Webpage</a>]</span></p>
@@ -223,7 +223,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/weinane.jpg" | prepend:site.baseurl }}">
+    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/weinane.jpg" | prepend:site.baseurl }}">
     <p><b>Weinan E</b>
     (confirmed) is a professor in Applied and Computational Mathematics at Princeton University. His current research interests lie at the intersection of mathematics, physics, and machine learning. He has made important contributions to the theoretical foundations of deep neural networks, exploring questions on training dynamics and generalization. Additionally, he has driven the development of machine learning algorithms for use in computational science, including solution methods for complicated PDE problems and techniques for incorporating mathematical models into data-driven approaches. 
     <span style="color:#3a92d6;font-weight:400;">[<a href="https://web.math.princeton.edu/~weinan/">Webpage</a>]</span></p>
@@ -232,7 +232,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/animaanandkumar.jpg" | prepend:site.baseurl }}">
+    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/animaanandkumar.jpg" | prepend:site.baseurl }}">
     <p><b>Anima Anandkumar</b>
     (confirmed) holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At Caltech, she is the co-director of Dolcit and co-leads the AI4science initiative, along with Yisong Yue. She has spearheaded the development of tensor algorithms, first proposed in her seminal paper, which enable efficient processing of multidimensional and multimodal data. Her contributions to Physics Informed Deep Learning, such as the Fourier Neural Operator network for solving parametric PDEs, have sparked great interest in the community.    
     <span style="color:#3a92d6;font-weight:400;">[<a href="http://tensorlab.cms.caltech.edu/users/anima/">Webpage</a>]</span></p>
@@ -265,7 +265,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   
    <div class="col-xs-3">
     <a href="https://www.ekbuchanan.com/">
-      <img class="people-pic" src="{{ "/static/img/people/kellybuchanan.png" | prepend:site.baseurl }}">
+      <img class="people-pic" style="width:100%;height:auto;" src="{{ "/static/img/people/kellybuchanan.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.ekbuchanan.com/">Kelly Buchanan</a>
