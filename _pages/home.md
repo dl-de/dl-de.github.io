@@ -295,7 +295,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 
   <div class="col-xs-3">
-    <a href="http://rlily.hu/">
+        <a href="http://rlily.hu/">
       <img class="people-pic" src="{{ "/static/img/people/Lily.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
