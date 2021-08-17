@@ -115,7 +115,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       </li>
       <li>How can DL be used to enhance the analysis of DEs? <a href="#note1" id="note1ref">[1, 2]</a>
       <ul>
-        <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …) <a href="#note1" id="note3ref">[5]</a></li>
+        <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …) <a href="#note1" id="note3ref">[5, 10]</a></li>
         <li>Solving highly parameterized DEs <a href="#note1" id="note6ref">[9]</a> </li>
         <li>Solving inverse problems</li>
         <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)</li>
@@ -454,6 +454,12 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <span style="color:#3a92d6;font-weight:400;"> <a href="https://openreview.net/pdf?id=c8P9NQVtmnO">
     Fourier Neural Operator for Parametric Partial Differential Equations.</a></span> 
     ICLR, 2021.
+
+
+    <br><a id="note1" href="#note7ref">[10]</a> J. Sirignano, K. Spiliopoulos
+    <span style="color:#3a92d6;font-weight:400;"> <a href="https://openreview.net/pdf?id=c8P9NQVtmnO">
+    DGM: A deep learning algorithm for solving partial differential equations.</a></span> 
+    Journal of Computational Physics, 2018.
 
 
 </div>
