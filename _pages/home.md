@@ -104,7 +104,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <div class="row">
   <div class="col-xs-12">
     <ul>
-      <li>How can DE models provide insights into DL? <a href="#note1" id="note1ref">[1, 2]</a>
+      <li>How can DE models provide insights into DL? 
       <ul>
         <li>What families of functions are best represented by different neural architectures?</li>
         <li>Can this connection guide the design of new neural architectures?</li>
@@ -113,7 +113,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
         <li>Can these insights guide the design of weight initialization schemes?</li>
       </ul>
       </li>
-      <li>How can DL be used to enhance the analysis of DEs?
+      <li>How can DL be used to enhance the analysis of DEs? <a href="#note1" id="note1ref">[1, 2]</a>
       <ul>
         <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …)</li>
         <li>Solving highly parameterized DEs </li>
@@ -406,13 +406,13 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 </div>
 <div class="row">
     <a id="note1" href="#note1ref">[1]</a> M. Raissi, P. Perdikaris and G.E. Karniadakis
-    <span style="color:#1a1aff;font-weight:400;"> <a href="https://www.sciencedirect.com/science/article/pii/S0021999118307125">
+    <span style="color:#3a92d6;font-weight:400;"> <a href="https://www.sciencedirect.com/science/article/pii/S0021999118307125">
     Physics-informed neural networks: A deep learning framework for solving forward and inverse problems 
     involving nonlinear partial differential equations.</a></span> 
     Journal of Computational Physics, 2019.
 
     <br><a id="note1" href="#note1ref">[2]</a> P. Chaudhari and S. Soatto  
-    <span style="color:#1a1aff;font-weight:400;"> <a href="https://www.pnas.org/content/118/21/e2101784118">
+    <span style="color:#3a92d6;font-weight:400;"> <a href="https://www.pnas.org/content/118/21/e2101784118">
     Machine learning–accelerated computational fluid dynamics.</a></span> 
     PNAS, 2021.
 
