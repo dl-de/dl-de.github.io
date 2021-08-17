@@ -104,7 +104,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <div class="row">
   <div class="col-xs-12">
     <ul>
-      <li>How can DE models provide insights into DL? <a href="#note1" id="note1ref">[1]</a>
+      <li>How can DE models provide insights into DL? <a href="#note1" id="note1ref">[1, 2]</a>
       <ul>
         <li>What families of functions are best represented by different neural architectures?</li>
         <li>Can this connection guide the design of new neural architectures?</li>
@@ -411,9 +411,10 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     involving nonlinear partial differential equations.</a></span> 
     Journal of Computational Physics, 2019.
 
-  <br><a id="note1" href="#note1ref">[2]</a> P. Chaudhari and S. Soatto  
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1710.11029.pdf">Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks.</a></span> 
-  ICLR, 2018.
+    <br><a id="note1" href="#note1ref">[2]</a> P. Chaudhari and S. Soatto  
+    <span style="color:#1a1aff;font-weight:400;"> <a href="https://www.pnas.org/content/118/21/e2101784118">
+    Machine learning–accelerated computational fluid dynamics.</a></span> 
+    PNAS, 2021.
 
 
 
