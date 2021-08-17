@@ -411,7 +411,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     involving nonlinear partial differential equations.</a></span> 
     Journal of Computational Physics, 2019.
 
-    <br><a id="note1" href="#note1ref">[2]</a> P. Chaudhari and S. Soatto  
+    <br><a id="note1" href="#note1ref">[2]</a> D. Kochkov,  J.A. Smith, A. Alieva, Q. Wang,  M.P. Brenner, and S. Hoyer 
     <span style="color:#3a92d6;font-weight:400;"> <a href="https://www.pnas.org/content/118/21/e2101784118">
     Machine learning–accelerated computational fluid dynamics.</a></span> 
     PNAS, 2021.
