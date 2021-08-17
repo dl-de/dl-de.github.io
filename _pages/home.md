@@ -104,7 +104,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <div class="row">
   <div class="col-xs-12">
     <ul>
-      <li>How can DE models provide insights into DL?
+      <li>How can DE models provide insights into DL? <a href="#note1" id="note1ref">[1]</a>
       <ul>
         <li>What families of functions are best represented by different neural architectures?</li>
         <li>Can this connection guide the design of new neural architectures?</li>
@@ -397,6 +397,27 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 </div>
 
+
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>References</h2>
+  </div>
+</div>
+<div class="row">
+    <a id="note1" href="#note1ref">[1]</a> M. Raissi, P. Perdikaris and G.E. Karniadakis
+    <span style="color:#1a1aff;font-weight:400;"> <a href="https://www.sciencedirect.com/science/article/pii/S0021999118307125">
+    Physics-informed neural networks: A deep learning framework for solving forward and inverse problems 
+    involving nonlinear partial differential equations.</a></span> 
+    Journal of Computational Physics, 2019.
+
+  <br><a id="note1" href="#note1ref">[2]</a> P. Chaudhari and S. Soatto  
+  <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1710.11029.pdf">Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks.</a></span> 
+  ICLR, 2018.
+
+
+
+</div>
 
 <br><br><br><br><br><br><br>
 
