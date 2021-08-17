@@ -116,7 +116,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>How can DL be used to enhance the analysis of DEs? <a href="#note1" id="note1ref">[1, 2]</a>
       <ul>
         <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …) <a href="#note1" id="note3ref">[5]</a></li>
-        <li>Solving highly parameterized DEs </li>
+        <li>Solving highly parameterized DEs <a href="#note1" id="note6ref">[9]</a> </li>
         <li>Solving inverse problems</li>
         <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)</li>
       </ul>
@@ -447,7 +447,13 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <br><a id="note1" href="#note5ref">[8]</a> W. E, C. Ma & L. Wu 
     <span style="color:#3a92d6;font-weight:400;"> <a href="https://link.springer.com/article/10.1007/s00365-021-09549-y">
     The Barron Space and the Flow-Induced Function Spaces for Neural Network Models.</a></span> 
-    Constructive Approximation, 20121.
+    Constructive Approximation, 2021.
+
+
+    <br><a id="note1" href="#note6ref">[9]</a> Z. Li, N. Kovachki, K. Azizzadenesheli, B. Liu, K. Bhattacharya, A. Stuart, A. Anandkumar
+    <span style="color:#3a92d6;font-weight:400;"> <a href="https://openreview.net/pdf?id=c8P9NQVtmnO">
+    Fourier Neural Operator for Parametric Partial Differential Equations.</a></span> 
+    ICLR, 2021.
 
 
 </div>
