@@ -107,7 +107,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>How can DE models provide insights into DL? 
       <ul>
         <li>What families of functions are best represented by different neural architectures?</li>
-        <li>Can this connection guide the design of new neural architectures?</li>
+        <li>Can this connection guide the design of new neural architectures?</li> <a href="#note1" id="note2ref">[3]</a>
         <li>Can DE models be used to derive bounds on generalization error?</li>
         <li>What insights can DE models provide into training dynamics?</li>
         <li>Can these insights guide the design of weight initialization schemes?</li>
@@ -415,6 +415,13 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <span style="color:#3a92d6;font-weight:400;"> <a href="https://www.pnas.org/content/118/21/e2101784118">
     Machine learning–accelerated computational fluid dynamics.</a></span> 
     PNAS, 2021.
+
+    <br><a id="note1" href="#note2ref">[3]</a> E. Haber and L. Ruthotto 
+    <span style="color:#3a92d6;font-weight:400;"> <a href="https://www.pnas.org/content/118/21/e2101784118">
+    Stable architectures for deep neural networks
+    .</a></span> 
+    IOPScience, 2017.
+
 
 
 
