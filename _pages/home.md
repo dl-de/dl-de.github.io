@@ -107,7 +107,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>How can DE models provide insights into DL? 
       <ul>
         <li>What families of functions are best represented by different neural architectures?</li>
-        <li>Can this connection guide the design of new neural architectures?</li> <a href="#note1" id="note2ref">[3,4]</a>
+        <li>Can this connection guide the design of new neural architectures? <a href="#note1" id="note2ref">[3, 4]</a> </li> 
         <li>Can DE models be used to derive bounds on generalization error?</li>
         <li>What insights can DE models provide into training dynamics?</li>
         <li>Can these insights guide the design of weight initialization schemes?</li>
