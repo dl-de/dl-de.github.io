@@ -115,7 +115,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       </li>
       <li>How can DL be used to enhance the analysis of DEs? <a href="#note1" id="note1ref">[1, 2]</a>
       <ul>
-        <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …)</li>
+        <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …) <a href="#note1" id="note3ref">[5]</a></li>
         <li>Solving highly parameterized DEs </li>
         <li>Solving inverse problems</li>
         <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)</li>
@@ -421,13 +421,15 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     Stable architectures for deep neural networks.</a></span> 
     IOPScience, 2017.
 
-
-
     <br><a id="note1" href="#note2ref">[4]</a> R.T.Q. Chen, Y. Rubanova, J. Bettencourt, D. Duvenaud
     <span style="color:#3a92d6;font-weight:400;"> <a href="https://papers.nips.cc/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf">
     Neural Ordinary Differential Equations.</a></span> 
-    IOPScience, 2017.
+    NeurIPS, 2018.
 
+    <br><a id="note1" href="#note3ref">[5]</a> G. Carleo, M. Troyer
+    <span style="color:#3a92d6;font-weight:400;"> <a href="https://science.sciencemag.org/content/355/6325/602">
+    Solving the quantum many-body problem with artificial neural networks.</a></span> 
+    Science, 2017.
 
 
 
