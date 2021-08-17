@@ -106,10 +106,10 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <ul>
       <li>How can DE models provide insights into DL? 
       <ul>
-        <li>What families of functions are best represented by different neural architectures?</li>
+        <li>What families of functions are best represented by different neural architectures? <a href="#note1" id="note5ref">[8]</a></li>
         <li>Can this connection guide the design of new neural architectures? <a href="#note1" id="note2ref">[3, 4]</a> </li> 
         <li>Can DE models be used to derive bounds on generalization error?</li>
-        <li>What insights can DE models provide into training dynamics?</li>
+        <li>What insights can DE models provide into training dynamics? <a href="#note1" id="note4ref">[6, 7]</a></li>
         <li>Can these insights guide the design of weight initialization schemes?</li>
       </ul>
       </li>
@@ -118,7 +118,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
         <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …) <a href="#note1" id="note3ref">[5]</a></li>
         <li>Solving highly parameterized DEs </li>
         <li>Solving inverse problems</li>
-        <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)<a href="#note1" id="note4ref">[6, 7]</a></li>
+        <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)</li>
       </ul>
       </li>
     </ul>
@@ -442,6 +442,12 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <span style="color:#3a92d6;font-weight:400;"> <a href="http://proceedings.mlr.press/v70/li17f.html">
     Stochastic Modified Equations and Adaptive Stochastic Gradient Algorithms.</a></span> 
     ICML, 2017.
+
+
+    <br><a id="note1" href="#note5ref">[8]</a> W. E, C. Ma & L. Wu 
+    <span style="color:#3a92d6;font-weight:400;"> <a href="https://link.springer.com/article/10.1007/s00365-021-09549-y">
+    The Barron Space and the Flow-Induced Function Spaces for Neural Network Models.</a></span> 
+    Constructive Approximation, 20121.
 
 
 </div>
