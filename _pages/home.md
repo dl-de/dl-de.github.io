@@ -118,7 +118,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
         <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …) <a href="#note1" id="note3ref">[5]</a></li>
         <li>Solving highly parameterized DEs </li>
         <li>Solving inverse problems</li>
-        <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)<a href="#note1" id="note4ref">[6]</a></li>
+        <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)<a href="#note1" id="note4ref">[6, 7]</a></li>
       </ul>
       </li>
     </ul>
@@ -436,6 +436,12 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <span style="color:#3a92d6;font-weight:400;"> <a href="https://openreview.net/forum?id=HyWrIgW0W">
     Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks.</a></span> 
     ICLR, 2018.
+
+
+    <br><a id="note1" href="#note4ref">[7]</a> Q. Li, C. Tai, W. E
+    <span style="color:#3a92d6;font-weight:400;"> <a href="http://proceedings.mlr.press/v70/li17f.html">
+    Stochastic Modified Equations and Adaptive Stochastic Gradient Algorithms.</a></span> 
+    ICML, 2017.
 
 
 </div>
