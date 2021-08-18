@@ -355,7 +355,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </a>
     <div class="people-name">
       <a href="https://www.ece.rutgers.edu/jorge-ortiz">Jorge Ortiz</a>
-      <h6>Rutgers, The State University of New Jersey</h6>
+      <h6>Rutgers University</h6>
     </div>
   </div>
 
