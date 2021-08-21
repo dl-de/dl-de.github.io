@@ -457,7 +457,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 
     <br><a id="note1" href="#note7ref">[10]</a> J. Sirignano, K. Spiliopoulos
-    <span style="color:#3a92d6;font-weight:400;"> <a href="https://openreview.net/pdf?id=c8P9NQVtmnO">
+    <span style="color:#3a92d6;font-weight:400;"> <a href="https://www.sciencedirect.com/science/article/pii/S0021999118305527">
     DGM: A deep learning algorithm for solving partial differential equations.</a></span> 
     Journal of Computational Physics, 2018.
 
