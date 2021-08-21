@@ -108,7 +108,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <ul>
         <li>What families of functions are best represented by different neural architectures? <a href="#note1" id="note5ref">[8]</a></li>
         <li>Can this connection guide the design of new neural architectures? <a href="#note1" id="note2ref">[3, 4]</a> </li> 
-        <li>Can DE models be used to derive bounds on generalization error?</li>
+        <li>Can DE models be used to derive bounds on generalization error? <a href="#note1" id="note9ref">[12]</a> </li>
         <li>What insights can DE models provide into training dynamics? <a href="#note1" id="note4ref">[6, 7]</a></li>
         <li>Can these insights guide the design of weight initialization schemes?</li>
       </ul>
@@ -465,6 +465,14 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <span style="color:#3a92d6;font-weight:400;"> <a href="https://epubs.siam.org/doi/pdf/10.1137/19M1274067">
     DeepXDE: A Deep Learning Library for Solving Differential Equations.</a></span> 
     Society for Industrial and Applied Mathematics, 2021.
+
+
+    <br><a id="note1" href="#note9ref">[12]</a> S. Mishra, R. Molinaro
+    <span style="color:#3a92d6;font-weight:400;"> 
+    <a href="https://academic.oup.com/imajna/advance-article-abstract/doi/10.1093/imanum/drab032/6297946?redirectedFrom=fulltext">
+    Estimates on the generalization error of physics-informed neural networks for approximating a class of inverse problems for PDEs.</a></span> 
+    IMA Journal of Numerical Analysis, 2021.
+
 
 </div>
 
