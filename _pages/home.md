@@ -117,7 +117,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <ul>
         <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …) <a href="#note1" id="note3ref">[5, 10]</a></li>
         <li>Solving highly parameterized DEs <a href="#note1" id="note6ref">[9]</a> </li>
-        <li>Solving inverse problems</li>
+        <li>Solving inverse problems <a href="#note1" id="note8ref">[11]</a> </li>
         <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)</li>
       </ul>
       </li>
@@ -461,6 +461,10 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     DGM: A deep learning algorithm for solving partial differential equations.</a></span> 
     Journal of Computational Physics, 2018.
 
+    <br><a id="note1" href="#note8ref">[11]</a> L. Lu, X. Meng, Z. Mao, G.E. Karniadakis
+    <span style="color:#3a92d6;font-weight:400;"> <a href="https://epubs.siam.org/doi/pdf/10.1137/19M1274067">
+    DeepXDE: A Deep Learning Library for Solving Differential Equations.</a></span> 
+    Society for Industrial and Applied Mathematics, 2021.
 
 </div>
 
