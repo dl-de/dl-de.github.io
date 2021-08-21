@@ -107,7 +107,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>How can DE models provide insights into DL? 
       <ul>
         <li>What families of functions are best represented by different neural architectures? <a href="#note1" id="note5ref">[8]</a></li>
-        <li>Can this connection guide the design of new neural architectures? <a href="#note1" id="note2ref">[3, 4]</a> </li> 
+        <li>Can this connection guide the design of new neural architectures? <a href="#note1" id="note2ref">[3, 4, 13]</a> </li> 
         <li>Can DE models be used to derive bounds on generalization error? <a href="#note1" id="note9ref">[12]</a> </li>
         <li>What insights can DE models provide into training dynamics? <a href="#note1" id="note4ref">[6, 7]</a></li>
         <li>Can these insights guide the design of weight initialization schemes?</li>
@@ -472,6 +472,12 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <a href="https://academic.oup.com/imajna/advance-article-abstract/doi/10.1093/imanum/drab032/6297946?redirectedFrom=fulltext">
     Estimates on the generalization error of physics-informed neural networks for approximating a class of inverse problems for PDEs.</a></span> 
     IMA Journal of Numerical Analysis, 2021.
+
+    <br><a id="note1" href="#note10ref">[13]</a> S. Bai, J.Z. Kolter, V. Koltun
+    <span style="color:#3a92d6;font-weight:400;"> 
+    <a href="https://proceedings.neurips.cc/paper/2019/file/01386bd6d8e091c2ab4c7c7de644d37b-Paper.pdf">
+    Deep Equilibrium Models.</a></span> 
+    NeurIPS, 2019.
 
 
 </div>
