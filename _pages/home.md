@@ -82,7 +82,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>TBA</td>
+          <td>December 14th, 2021</td>
         </tr>
       </tbody>
     </table>
