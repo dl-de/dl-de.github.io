@@ -115,9 +115,9 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       </li>
       <li>How can DL be used to enhance the analysis of DEs? <a href="#note1" id="note1ref">[1, 2]</a>
       <ul>
-        <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …) <a href="#note1" id="note3ref">[5, 10]</a></li>
+        <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …) <a href="#note1" id="note3ref">[5, 10, 15]</a></li>
         <li>Solving highly parameterized DEs <a href="#note1" id="note6ref">[9]</a> </li>
-        <li>Solving inverse problems <a href="#note1" id="note8ref">[11]</a> </li>
+        <li>Solving inverse problems <a href="#note1" id="note8ref">[11, 14]</a> </li>
         <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)</li>
       </ul>
       </li>
@@ -478,6 +478,21 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <a href="https://proceedings.neurips.cc/paper/2019/file/01386bd6d8e091c2ab4c7c7de644d37b-Paper.pdf">
     Deep Equilibrium Models.</a></span> 
     NeurIPS, 2019.
+
+
+    <br><a id="note1" href="#note14ref">[14]</a> N. Yadav, K.S. McFall, M. Kumar, J.H. Kim
+    <span style="color:#3a92d6;font-weight:400;"> 
+    <a href="https://link.springer.com/article/10.1007/s00521-016-2722-9">
+    A length factor artificial neural network method for the numerical solution of the advection dispersion equation characterizing the mass balance of fluid flow in a chemical reactor.</a></span> 
+    Neural Computing and Applications, 2018.
+
+
+
+    <br><a id="note1" href="#note15ref">[15]</a> C. Beck, S. Becker, P. Grohs, N. Jaafari, A. Jentzen 
+    <span style="color:#3a92d6;font-weight:400;"> 
+    <a href="https://link.springer.com/article/10.1007/s10915-021-01590-0">
+    Solving the Kolmogorov PDE by Means of Deep Learning.</a></span> 
+    Journal of Scientific Computing, 2021.
 
 
 </div>
