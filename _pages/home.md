@@ -187,7 +187,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>15:15 : Invited Talk 4</li>
       <li>16:00 : Contributed Talk 3</li>
       <li>16:15 : Contributed Talk 4</li>
-      <li>16:30 : End</li>
+      <li>16:30 : Final Remarks</li>
     </ul>
   </div>
 </div>
