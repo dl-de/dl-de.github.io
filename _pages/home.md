@@ -166,28 +166,28 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   <div class="col-xs-12">
     <p><b>(EST) Morning </b></p>
     <ul>
-      <li>08:00 AM : Introduction and opening remarks</li>
-      <li>08:15 AM : Invited Talk 1 </li>
-      <li>09:00 AM : Contributed Talk 1 </li>
-      <li>09:15 AM : Coffee Break</li>
-      <li>09:20 AM : Poster Spotlights (2x5min)</li>
-      <li>09:30 AM : Poster Session 1</li>
-      <li>10:15 AM : Invited Talk 2</li>
-      <li>11:00 AM : Coffee Break</li>
-      <li>11:05 AM : Panel discussion      </li>
-      <li>12:15 AM : Lunch Break                </li>
+      <li>08:00 : Introduction and opening remarks</li>
+      <li>08:15 : Invited Talk 1 </li>
+      <li>09:00 : Contributed Talk 1 </li>
+      <li>09:15 : Coffee Break</li>
+      <li>09:20 : Poster Spotlights (2x5min)</li>
+      <li>09:30 : Poster Session 1</li>
+      <li>10:15 : Invited Talk 2</li>
+      <li>11:00 : Coffee Break</li>
+      <li>11:05 : Panel discussion      </li>
+      <li>12:15 : Lunch Break                </li>
     </ul>
     <p><b>(EST) Afternoon </b></p>
     <ul>
-      <li>13:15 AM : Invited Talk 3</li>
-      <li>14:00 AM : Contributed Talk 2</li>
-      <li>14:15 AM : Coffee Break</li>
-      <li>14:20 AM : Poster Spotlights 2 (2x5min)</li>
-      <li>14:30 AM : Poster Session 2</li>
-      <li>15:15 AM : Invited Talk 4</li>
-      <li>16:00 AM : Contributed Talk 3</li>
-      <li>16:15 AM : Contributed Talk 4</li>
-      <li>16:30 AM : End</li>
+      <li>13:15 : Invited Talk 3</li>
+      <li>14:00 : Contributed Talk 2</li>
+      <li>14:15 : Coffee Break</li>
+      <li>14:20 : Poster Spotlights 2 (2x5min)</li>
+      <li>14:30 : Poster Session 2</li>
+      <li>15:15 : Invited Talk 4</li>
+      <li>16:00 : Contributed Talk 3</li>
+      <li>16:15 : Contributed Talk 4</li>
+      <li>16:30 : End</li>
     </ul>
   </div>
 </div>
