@@ -253,7 +253,20 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 </div>
 
+<div class="row" id="accepted_papers">
+    <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+  </div>
+</div>
 
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+    <span style="color:#3a92d6;font-weight:400;"><a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DLDE#accept--spotlight-">Spotlight papers</a></span>
+    <p>
+    <span style="color:#3a92d6;font-weight:400;"><a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DLDE#accept--poster-">Poster papers</a></span>
+  </div>
+</div>
 
 <div class="row" id="organizers">
   <div class="col-xs-12">
