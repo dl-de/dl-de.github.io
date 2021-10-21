@@ -168,26 +168,28 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <ul>
       <li>08:00 : Introduction and opening remarks</li>
       <li>08:15 : Invited Talk 1 </li>
-      <li>09:00 : Contributed Talk 1 </li>
-      <li>09:15 : Coffee Break</li>
-      <li>09:20 : Poster Spotlights (2x5min)</li>
-      <li>09:30 : Poster Session 1</li>
-      <li>10:15 : Invited Talk 2</li>
-      <li>11:00 : Coffee Break</li>
-      <li>11:05 : Panel discussion      </li>
-      <li>12:15 : Lunch Break                </li>
+      <li>09:00 : NeurInt-Learning Interpolation by Neural ODEs </li>
+      <li>09:10 : Neural ODE Processes: A Short Summary  </li>
+      <li>09:20 : Coffee Break</li>
+      <li>09:25 : Beltrami Flow and Neural Diffusion on Graphs </li>
+      <li>09:35 : Neural Solvers for Fast and Accurate Numerical Optimal Control </li>
+      <li>09:45 : Poster Session 1</li>
+      <li>10:30 : Invited Talk 2</li>
+      <li>11:15 : Coffee Break</li>
+       <li>11:20 : Panel discussion      </li>
+      <li>12:20 : Lunch Break                </li>
     </ul>
     <p><b>(EST) Afternoon </b></p>
     <ul>
       <li>13:15 : Invited Talk 3</li>
-      <li>14:00 : Contributed Talk 2</li>
-      <li>14:15 : Coffee Break</li>
-      <li>14:20 : Poster Spotlights 2 (2x5min)</li>
-      <li>14:30 : Poster Session 2</li>
-      <li>15:15 : Invited Talk 4</li>
-      <li>16:00 : Contributed Talk 3</li>
-      <li>16:15 : Contributed Talk 4</li>
-      <li>16:30 : Final Remarks</li>
+      <li>14:00 : Deep Reinforcement Learning for Online Control of Stochastic Partial Differential Equations </li>
+      <li>14:10 : Statistical Numerical PDE : Fast Rate, Neural Scaling Law and When it’s Optimal </li>
+      <li>14:20 : Coffee Break</li>
+      <li>14:25 : Poster Session 2</li>
+      <li>15:10 : Invited Talk 4</li>
+      <li>16:05 : Parametric Complexity Bounds for Approximating PDEs with Neural Networks </li>
+      <li>16:15 : Learning Implicit PDE Integration with Linear Implicit Layers </li>
+      <li>16:25 : Final Remarks</li>
     </ul>
   </div>
 </div>
