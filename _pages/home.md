@@ -167,26 +167,26 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <p><b>(EST) Morning </b></p>
     <ul>
       <li>08:00 : Introduction and opening remarks</li>
-      <li>08:15 : Invited Talk 1 </li>
+      <li>08:15 : Invited Talk 1 - Neha Yadav - Deep learning methods for solving differential equations </li>
       <li>09:00 : NeurInt-Learning Interpolation by Neural ODEs </li>
       <li>09:10 : Neural ODE Processes: A Short Summary  </li>
       <li>09:20 : Coffee Break</li>
       <li>09:25 : Beltrami Flow and Neural Diffusion on Graphs </li>
       <li>09:35 : Neural Solvers for Fast and Accurate Numerical Optimal Control </li>
       <li>09:45 : Poster Session 1</li>
-      <li>10:30 : Invited Talk 2</li>
+      <li>10:30 : Invited Talk 2 - Philipp Grohs - The Theory-to-Practice Gap in Deep Learning </li>
       <li>11:15 : Coffee Break</li>
        <li>11:20 : Panel discussion      </li>
       <li>12:20 : Lunch Break                </li>
     </ul>
     <p><b>(EST) Afternoon </b></p>
     <ul>
-      <li>13:15 : Invited Talk 3</li>
+      <li>13:15 : Invited Talk 3 - Weinan E - Maximum principle-based algorithm for deep learning</li>
       <li>14:00 : Deep Reinforcement Learning for Online Control of Stochastic Partial Differential Equations </li>
       <li>14:10 : Statistical Numerical PDE : Fast Rate, Neural Scaling Law and When it’s Optimal </li>
       <li>14:20 : Coffee Break</li>
       <li>14:25 : Poster Session 2</li>
-      <li>15:10 : Invited Talk 4</li>
+      <li>15:10 : Invited Talk 4 - Anima Anandkumar - Neural operator: A new paradigm for learning PDEs </li>
       <li>16:05 : Parametric Complexity Bounds for Approximating PDEs with Neural Networks </li>
       <li>16:15 : Learning Implicit PDE Integration with Linear Implicit Layers </li>
       <li>16:25 : Final Remarks</li>
