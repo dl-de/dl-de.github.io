@@ -173,7 +173,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>09:20 : Coffee Break</li>
       <li>09:25 : Spotlight Talk - GRAND: Graph Neural Diffusion </li>
       <li>09:35 : Spotlight Talk - Neural Solvers for Fast and Accurate Numerical Optimal Control </li>
-      <li>09:45 : Poster Session 1 - [GatherTown room](https://gather.town/pyTVekMlogztZr5d/dlde-poster-room)</li>
+      <li>09:45 : Poster Session 1 - <a href="https://gather.town/pyTVekMlogztZr5d/dlde-poster-room)">GatherTown room</a></li>
       <li>10:30 : Invited Talk 2 - Philipp Grohs - The Theory-to-Practice Gap in Deep Learning </li>
       <li>11:15 : Coffee Break</li>
        <li>11:20 : Panel discussion      </li>
@@ -185,7 +185,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>14:00 : Spotlight Talk - Deep Reinforcement Learning for Online Control of Stochastic Partial Differential Equations </li>
       <li>14:10 : Spotlight Talk - Statistical Numerical PDE : Fast Rate, Neural Scaling Law and When it’s Optimal </li>
       <li>14:20 : Coffee Break</li>
-      <li>14:25 : Poster Session 2 - [GatherTown room](https://gather.town/pyTVekMlogztZr5d/dlde-poster-room)</li>
+      <li>14:25 : Poster Session 2 - <a href="https://gather.town/pyTVekMlogztZr5d/dlde-poster-room)">GatherTown room</a></li>
       <li>15:10 : Invited Talk 4 - Anima Anandkumar - Neural operator: A new paradigm for learning PDEs </li>
       <li>16:05 : Spotlight Talk - HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks  </li>
       <li>16:15 : Spotlight Talk - Learning Implicit PDE Integration with Linear Implicit Layers </li>
