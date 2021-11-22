@@ -166,7 +166,8 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   <div class="col-xs-12">
     <p><b>(EST) Morning </b></p>
     <ul>
-      <li>08:00 : Introduction and opening remarks</li>
+      <li>06:45 : Introduction and opening remarks</li>
+      <li>07:00 : Invited Talk 3 - Weinan E - Maximum principle-based algorithm for deep learning</li>
       <li>08:15 : Invited Talk 1 - Neha Yadav - Deep learning methods for solving differential equations </li>
       <li>09:00 : Spotlight Talk - NeurInt-Learning Interpolation by Neural ODEs </li>
       <li>09:10 : Spotlight Talk - Neural ODE Processes: A Short Summary  </li>
@@ -176,12 +177,10 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>09:45 : Poster Session 1 - <a href="https://gather.town/pyTVekMlogztZr5d/dlde-poster-room)">GatherTown room</a></li>
       <li>10:30 : Invited Talk 2 - Philipp Grohs - The Theory-to-Practice Gap in Deep Learning </li>
       <li>11:15 : Coffee Break</li>
-       <li>11:20 : Panel discussion      </li>
       <li>12:20 : Lunch Break                </li>
     </ul>
     <p><b>(EST) Afternoon </b></p>
     <ul>
-      <li>13:15 : Invited Talk 3 - Weinan E - Maximum principle-based algorithm for deep learning</li>
       <li>14:00 : Spotlight Talk - Deep Reinforcement Learning for Online Control of Stochastic Partial Differential Equations </li>
       <li>14:10 : Spotlight Talk - Statistical Numerical PDE : Fast Rate, Neural Scaling Law and When it’s Optimal </li>
       <li>14:20 : Coffee Break</li>
@@ -189,6 +188,12 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>15:10 : Invited Talk 4 - Anima Anandkumar - Neural operator: A new paradigm for learning PDEs </li>
       <li>16:05 : Spotlight Talk - HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks  </li>
       <li>16:15 : Spotlight Talk - Learning Implicit PDE Integration with Linear Implicit Layers </li>
+      <li>16:25 : Final Remarks</li>
+    </ul>
+    </ul>
+    <p><b>(EST) Night </b></p>
+    <ul>
+      <li>23:00 : Panel discussion      </li>
       <li>16:25 : Final Remarks</li>
     </ul>
   </div>
