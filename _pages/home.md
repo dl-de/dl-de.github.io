@@ -168,16 +168,15 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <ul>
       <li>06:45 : Introduction and opening remarks</li>
       <li>07:00 : Invited Talk 3 - Weinan E - Maximum principle-based algorithm for deep learning</li>
+      <li>07:45 : Spotlight Talk - NeurInt-Learning Interpolation by Neural ODEs </li>
+      <li>08:00 : Spotlight Talk - Neural ODE Processes: A Short Summary  </li>
       <li>08:15 : Invited Talk 1 - Neha Yadav - Deep learning methods for solving differential equations </li>
-      <li>09:00 : Spotlight Talk - NeurInt-Learning Interpolation by Neural ODEs </li>
-      <li>09:10 : Spotlight Talk - Neural ODE Processes: A Short Summary  </li>
-      <li>09:20 : Coffee Break</li>
-      <li>09:25 : Spotlight Talk - GRAND: Graph Neural Diffusion </li>
-      <li>09:35 : Spotlight Talk - Neural Solvers for Fast and Accurate Numerical Optimal Control </li>
+      <li>09:00 : Coffee Break</li>
+      <li>09:15 : Spotlight Talk - GRAND: Graph Neural Diffusion </li>
+      <li>09:30 : Spotlight Talk - Neural Solvers for Fast and Accurate Numerical Optimal Control </li>
       <li>09:45 : Poster Session 1 - <a href="https://gather.town/pyTVekMlogztZr5d/dlde-poster-room)">GatherTown room</a></li>
       <li>10:30 : Invited Talk 2 - Philipp Grohs - The Theory-to-Practice Gap in Deep Learning </li>
-      <li>11:15 : Coffee Break</li>
-      <li>12:20 : Lunch Break                </li>
+      <li>12:15 : Lunch Break                </li>
     </ul>
     <p><b>(EST) Afternoon </b></p>
     <ul>
@@ -190,11 +189,10 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>16:15 : Spotlight Talk - Learning Implicit PDE Integration with Linear Implicit Layers </li>
       <li>16:25 : Final Remarks</li>
     </ul>
-    </ul>
     <p><b>(EST) Night </b></p>
     <ul>
       <li>23:00 : Panel discussion      </li>
-      <li>16:25 : Final Remarks</li>
+      <li>24:00 : Final Remarks</li>
     </ul>
   </div>
 </div>
