@@ -180,9 +180,9 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </ul>
     <p><b>(EST) Afternoon </b></p>
     <ul>
-      <li>14:00 : Spotlight Talk - Deep Reinforcement Learning for Online Control of Stochastic Partial Differential Equations </li>
-      <li>14:10 : Spotlight Talk - Statistical Numerical PDE : Fast Rate, Neural Scaling Law and When it’s Optimal </li>
-      <li>14:20 : Coffee Break</li>
+      <li>13:45 : Spotlight Talk - Deep Reinforcement Learning for Online Control of Stochastic Partial Differential Equations </li>
+      <li>14:00 : Spotlight Talk - Statistical Numerical PDE : Fast Rate, Neural Scaling Law and When it’s Optimal </li>
+      <li>14:15 : Coffee Break</li>
       <li>14:30 : Poster Session 2 - <a href="https://gather.town/pyTVekMlogztZr5d/dlde-poster-room)">GatherTown room</a></li>
       <li>15:15 : Invited Talk 4 - Anima Anandkumar - Neural operator: A new paradigm for learning PDEs </li>
       <li>16:00 : Spotlight Talk - HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks  </li>
