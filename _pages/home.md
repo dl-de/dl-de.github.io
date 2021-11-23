@@ -167,15 +167,15 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <p><b>(EST) Morning </b></p>
     <ul>
       <li>06:45 : Introduction and opening remarks</li>
-      <li>07:00 : Invited Talk 3 - Weinan E - Maximum principle-based algorithm for deep learning</li>
+      <li>07:00 : Invited Talk 1 - Weinan E - Maximum principle-based algorithm for deep learning</li>
       <li>07:45 : Spotlight Talk - NeurInt-Learning Interpolation by Neural ODEs </li>
       <li>08:00 : Spotlight Talk - Neural ODE Processes: A Short Summary  </li>
-      <li>08:15 : Invited Talk 1 - Neha Yadav - Deep learning methods for solving differential equations </li>
+      <li>08:15 : Invited Talk 2 - Neha Yadav - Deep learning methods for solving differential equations </li>
       <li>09:00 : Coffee Break</li>
       <li>09:15 : Spotlight Talk - GRAND: Graph Neural Diffusion </li>
       <li>09:30 : Spotlight Talk - Neural Solvers for Fast and Accurate Numerical Optimal Control </li>
       <li>09:45 : Poster Session 1 - <a href="https://gather.town/pyTVekMlogztZr5d/dlde-poster-room)">GatherTown room</a></li>
-      <li>10:30 : Invited Talk 2 - Philipp Grohs - The Theory-to-Practice Gap in Deep Learning </li>
+      <li>10:30 : Invited Talk 3 - Philipp Grohs - The Theory-to-Practice Gap in Deep Learning </li>
       <li>12:15 : Lunch Break                </li>
     </ul>
     <p><b>(EST) Afternoon </b></p>
