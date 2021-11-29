@@ -176,7 +176,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>09:30 : Spotlight Talk 4 - Neural Solvers for Fast and Accurate Numerical Optimal Control </li>
       <li>09:45 : Poster Session 1 - <a href="https://eventhosts.gather.town/pyTVekMlogztZr5d/dlde-poster-room">GatherTown room</a></li>
       <li>10:30 : Invited Talk 3 - Philipp Grohs - The Theory-to-Practice Gap in Deep Learning </li>
-      <li>12:15 : Lunch Break                </li>
+      <li>11:15 : Lunch Break                </li>
     </ul>
     <p><b>(EST) Afternoon </b></p>
     <ul>
