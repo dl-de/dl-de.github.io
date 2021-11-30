@@ -204,7 +204,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </ul>
     <p><b>(EST) Night </b></p>
     <ul>
-      <li>23:00 : Panel discussion      </li>
+      <li>23:00 : Panel discussion - Solving Differential Equations with Deep Learning: State of the Art and Future Directions     </li>
       <li>24:00 : Final Remarks</li>
     </ul>
   </div>
