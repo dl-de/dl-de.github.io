@@ -38,6 +38,14 @@ Submit your questions to the panelists
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIxfL0O06MmZRNbIlibH8UgdnhQta3b2MCxindswKzrkx6bA/viewform">here</a>!
 </span></center>
 
+<center><span style="color:#3a92d6;font-weight:400;">
+Register to NeurIPS conference to attend the Workshop 
+<a href="https://neurips.cc/Register2">here</a>!
+</span></center>
+
+
+
+
 
 <br>
 <div class="row" id="intro">
