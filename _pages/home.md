@@ -39,7 +39,7 @@ Submit your questions to the panelists
 </span></center>
 
 <center><span style="color:#3a92d6;font-weight:400;">
-Register to NeurIPS conference to attend the Workshop 
+Register to NeurIPS to attend the Workshop 
 <a href="https://neurips.cc/Register2">here</a>!
 </span></center>
 
