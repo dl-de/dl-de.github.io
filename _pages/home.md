@@ -34,8 +34,10 @@ acknowledgements: ""
 </div>
 
 <center><span style="color:#FF7F50;font-weight:400;">
-Submit your questions to the panelists [here](https://docs.google.com/forms/d/e/1FAIpQLSfIxfL0O06MmZRNbIlibH8UgdnhQta3b2MCxindswKzrkx6bA/viewform)!
+Submit your questions to the panelists 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfIxfL0O06MmZRNbIlibH8UgdnhQta3b2MCxindswKzrkx6bA/viewform">here</a>!
 </span></center>
+
 
 <br>
 <div class="row" id="intro">
