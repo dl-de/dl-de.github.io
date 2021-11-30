@@ -33,9 +33,9 @@ acknowledgements: ""
   </div> 
 </div>
 
-<span style="color:#FF7F50;font-weight:400;">
+<center><span style="color:#FF7F50;font-weight:400;">
 Submit your questions to the panelists [here](https://docs.google.com/forms/d/e/1FAIpQLSfIxfL0O06MmZRNbIlibH8UgdnhQta3b2MCxindswKzrkx6bA/viewform)!
-</span>
+</span></center>
 
 <br>
 <div class="row" id="intro">
