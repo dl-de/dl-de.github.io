@@ -33,7 +33,7 @@ acknowledgements: ""
   </div> 
 </div>
 
-<center><span style="color:#D2691E;font-weight:400;">
+<center><span style="color:#3a92d6;font-weight:400;">
 Submit your questions to the panelists 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIxfL0O06MmZRNbIlibH8UgdnhQta3b2MCxindswKzrkx6bA/viewform">here</a>!
 </span></center>
