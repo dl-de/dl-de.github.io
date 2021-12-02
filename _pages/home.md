@@ -416,11 +416,16 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 
 There are two ways to attend the presentations on the day of the workshop.
-The first option is to watch the presentations at this link: https://neurips.cc/virtual/2021/workshop/21880. Please use the rocket.chat text interface on that page to submit questions for the presenters.
+The first option is to watch the presentations at this <a href="https://neurips.cc/virtual/2021/workshop/21880">link</a>. Please use the rocket.chat text interface on that page to submit questions for the presenters.
 Alternatively, attendees can join the Zoom meeting directly using the link at the top of that page. As an attendee in the Zoom meeting, you will be able to raise your hand to ask questions directly with your microphone and camera.
 We would like to encourage everyone to attend via the Zoom meeting whenever feasible. Our hope is that the workshop will be as interactive and engaging as possible for an online event.
-Additional details about attending the NeurIPS 2021 virtual conference in general can be found [here](https://neurips.cc/virtual/2021/index.html).
+Additional details about attending the NeurIPS 2021 virtual conference in general can be found 
+<a href="https://neurips.cc/virtual/2021/index.html">here</a>.
 
+
+<p>
+
+</p>
 <br>
 
 <div class="row">
@@ -433,7 +438,12 @@ Additional details about attending the NeurIPS 2021 virtual conference in genera
 The poster sessions will be hosted by GatherTown at the following link:
 https://eventhosts.gather.town/pyTVekMlogztZr5d/dlde-poster-room.
 If you are logged into your NeurIPS account in your browser, GatherTown will try to detect these login credentials and automatically create a GatherTown profile based on your NeurIPS profile. If this isn’t happening, you can also follow the GatherTown instructions on how to create a profile when signing in for the first time.
-For those who have not used GatherTown before, there is a quick tutorial available on the website when you log in. Alternatively, you can find resources on their website (e.g., https://support.gather.town/help/gather-basics).
+For those who have not used GatherTown before, there is a quick tutorial available on the website when you log in. Alternatively, you can find resources on
+ <a href="https://support.gather.town/help/gather-basics">their website</a>.
+
+<p>
+
+</p>
 
 <br>
 
@@ -446,8 +456,11 @@ For those who have not used GatherTown before, there is a quick tutorial availab
 
 We are pleased to be hosting an expert panel session at 11pm EST on “Solving Differential Equations with Deep Learning: State of the Art and Future Directions”. Our panelists are Profs. Anima Anandkumar, Weinan E, and Neha Yadav.
 We would like to encourage the audience to participate actively with our panelists. If possible, please join this event through the Zoom meeting, so that questions can be posed using microphones and cameras. Of course, we will also be monitoring the rocket.chat interface.
-Those who would like to submit questions for our panelists ahead of time can do so through the following form: https://forms.gle/j37v5zmck1k1psww6.
+Those who would like to submit questions for our panelists ahead of time can do so through the following <a href="https://forms.gle/j37v5zmck1k1psww6">form</a>.
 
+<p>
+
+</p>
 <br>
 
 <div class="row">
