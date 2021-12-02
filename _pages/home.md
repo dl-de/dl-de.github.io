@@ -435,8 +435,9 @@ Additional details about attending the NeurIPS 2021 virtual conference in genera
 </div>
 
 
-The poster sessions will be hosted by GatherTown at the following link:
-https://eventhosts.gather.town/pyTVekMlogztZr5d/dlde-poster-room.
+The poster sessions will be hosted by GatherTown at the following 
+<a href="https://eventhosts.gather.town/pyTVekMlogztZr5d/dlde-poster-room">link</a>
+.
 If you are logged into your NeurIPS account in your browser, GatherTown will try to detect these login credentials and automatically create a GatherTown profile based on your NeurIPS profile. If this isn’t happening, you can also follow the GatherTown instructions on how to create a profile when signing in for the first time.
 For those who have not used GatherTown before, there is a quick tutorial available on the website when you log in. Alternatively, you can find resources on
  <a href="https://support.gather.town/help/gather-basics">their website</a>.
