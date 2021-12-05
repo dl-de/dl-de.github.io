@@ -403,6 +403,19 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <h6>University of California, Berkley</h6>
     </div>
   </div>
+
+
+  <div class="col-xs-3">
+    <a href="https://sites.google.com/winlab.rutgers.edu/maldeer/">
+      <img class="people-pic" src="{{ "/static/img/people/murtadhaaldeer.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://sites.google.com/winlab.rutgers.edu/maldeer/">Murtadha Aldeer</a>
+      <h6>Rutgers University</h6>
+    </div>
+  </div>
+
+
   </div>
 
 <hr>
