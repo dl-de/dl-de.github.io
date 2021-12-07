@@ -43,6 +43,11 @@ Register to NeurIPS to attend the Workshop
 <a href="https://neurips.cc/Register2">here</a>!
 </span></center>
 
+<center><span style="color:#3a92d6;font-weight:400;">
+Check the posters on GatherTown
+<a href="https://eventhosts.gather.town/PlRbNdJvuTTD3ZOx/DLDE2021">here</a>!
+</span></center>
+
 
 
 
