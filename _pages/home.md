@@ -35,26 +35,26 @@ acknowledgements: ""
 
 <center><span style="color:#3a92d6;font-weight:400;">
 Submit your questions to the panelists 
-<a style="font-weight:500;" href="https://docs.google.com/forms/d/e/1FAIpQLSfIxfL0O06MmZRNbIlibH8UgdnhQta3b2MCxindswKzrkx6bA/viewform">[here]</a>!
+<a style="font-weight:500;" href="https://docs.google.com/forms/d/e/1FAIpQLSfIxfL0O06MmZRNbIlibH8UgdnhQta3b2MCxindswKzrkx6bA/viewform">[here]</a>
 </span></center>
 
 <center><span style="color:#3a92d6;font-weight:400;">
 Register to NeurIPS to attend the Workshop 
-<a style="font-weight:500;" href="https://neurips.cc/Register2">[here]</a>!
+<a style="font-weight:500;" href="https://neurips.cc/Register2">[here]</a>
 </span></center>
 
 <center><span style="color:#3a92d6;font-weight:400;">
 Find the posters on GatherTown
 <a style="font-weight:500;" href="https://eventhosts.gather.town/PlRbNdJvuTTD3ZOx/DLDE2021">[here]</a>
 and their time 
-<a style="font-weight:500;" href="https://neurips.cc/virtual/2021/workshop/21880">[here]</a>!
+<a style="font-weight:500;" href="https://neurips.cc/virtual/2021/workshop/21880">[here]</a>
 </span></center>
 
 
 
 <center><span style="color:#3a92d6;font-weight:400;">
 Find the schedule, zoom link, livestream, and rocket.chat
-<a style="font-weight:500;" href="https://neurips.cc/virtual/2021/workshop/21880">[here]</a>! (Login required)
+<a style="font-weight:500;" href="https://neurips.cc/virtual/2021/workshop/21880">[here]</a> (Login required)
 </span></center>
 
 
