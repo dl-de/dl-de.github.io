@@ -44,15 +44,12 @@ Register to NeurIPS to attend the Workshop
 </span></center>
 
 <center><span style="color:#3a92d6;font-weight:400;">
-Check the posters on GatherTown
-<a href="https://eventhosts.gather.town/PlRbNdJvuTTD3ZOx/DLDE2021">here</a>!
+Find the posters on GatherTown
+<a style="font-weight:600;" href="https://eventhosts.gather.town/PlRbNdJvuTTD3ZOx/DLDE2021">[here]</a>
+and their time 
+<a href="https://neurips.cc/virtual/2021/workshop/21880">[here]</a>!
 </span></center>
 
-
-<center><span style="color:#3a92d6;font-weight:400;">
-Check poster times 
-<a href="https://neurips.cc/virtual/2021/workshop/21880">here</a>!
-</span></center>
 
 
 
