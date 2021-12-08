@@ -49,6 +49,13 @@ Check the posters on GatherTown
 </span></center>
 
 
+<center><span style="color:#3a92d6;font-weight:400;">
+Check poster times 
+<a href="https://neurips.cc/virtual/2021/workshop/21880">here</a>!
+</span></center>
+
+
+
 
 
 
