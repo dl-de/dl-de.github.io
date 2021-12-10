@@ -45,7 +45,7 @@ Register to NeurIPS to attend the Workshop
 
 <center><span style="color:#3a92d6;font-weight:400;">
 Find the posters on GatherTown
-<a style="font-weight:500;" href="https://eventhosts.gather.town/PlRbNdJvuTTD3ZOx/DLDE2021">[here]</a>
+<a style="font-weight:500;" href="https://eventhosts.gather.town/wR7m2n0AMEhpzwM2/neurips2021reserveSpace8">[here]</a>
 and their time 
 <a style="font-weight:500;" href="https://neurips.cc/virtual/2021/workshop/21880">[here]</a>
 </span></center>
@@ -200,7 +200,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>09:00 : Coffee Break</li>
       <li>09:15 : Spotlight Talk 3 - GRAND: Graph Neural Diffusion </li>
       <li>09:30 : Spotlight Talk 4 - Neural Solvers for Fast and Accurate Numerical Optimal Control </li>
-      <li>09:45 : Poster Session 1 - <a href="https://eventhosts.gather.town/PlRbNdJvuTTD3ZOx/DLDE2021">GatherTown room</a></li>
+      <li>09:45 : Poster Session 1 - <a href="https://eventhosts.gather.town/wR7m2n0AMEhpzwM2/neurips2021reserveSpace8">GatherTown room</a></li>
       <li>10:30 : Invited Talk 3 - Philipp Grohs - The Theory-to-Practice Gap in Deep Learning </li>
       <li>11:15 : Lunch Break                </li>
     </ul>
@@ -209,7 +209,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>13:45 : Spotlight Talk 5 - Deep Reinforcement Learning for Online Control of Stochastic Partial Differential Equations </li>
       <li>14:00 : Spotlight Talk 6 - Statistical Numerical PDE : Fast Rate, Neural Scaling Law and When it’s Optimal </li>
       <li>14:15 : Coffee Break</li>
-      <li>14:30 : Poster Session 2 - <a href="https://eventhosts.gather.town/PlRbNdJvuTTD3ZOx/DLDE2021">GatherTown room</a></li>
+      <li>14:30 : Poster Session 2 - <a href="https://eventhosts.gather.town/wR7m2n0AMEhpzwM2/neurips2021reserveSpace8">GatherTown room</a></li>
       <li>15:15 : Invited Talk 4 - Anima Anandkumar - Neural operator: A new paradigm for learning PDEs </li>
       <li>16:00 : Spotlight Talk 7 - HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks  </li>
       <li>16:15 : Spotlight Talk 8 - Learning Implicit PDE Integration with Linear Implicit Layers </li>
@@ -461,7 +461,7 @@ Additional details about attending the NeurIPS 2021 virtual conference in genera
 
 
 The poster sessions will be hosted by GatherTown at the following 
-<a href="https://eventhosts.gather.town/PlRbNdJvuTTD3ZOx/DLDE2021">link</a>
+<a href="https://eventhosts.gather.town/wR7m2n0AMEhpzwM2/neurips2021reserveSpace8">link</a>
 .
 If you are logged into your NeurIPS account in your browser, GatherTown will try to detect these login credentials and automatically create a GatherTown profile based on your NeurIPS profile. If this isn’t happening, you can also follow the GatherTown instructions on how to create a profile when signing in for the first time.
 For those who have not used GatherTown before, there is a quick tutorial available on the website when you log in. Alternatively, you can find resources on
