@@ -193,7 +193,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <p><b>(EST) Morning </b></p>
     <ul>
       <li>06:45 : Introduction and opening remarks</li>
-      <li>07:00 : Invited Talk 1 - Weinan E - Maximum principle-based algorithm for deep learning</li>
+      <li>07:00 : Invited Talk 1 - Weinan E - Machine Learning and PDEs</li>
       <li>07:45 : Spotlight Talk 1 - NeurInt-Learning Interpolation by Neural ODEs </li>
       <li>08:00 : Spotlight Talk 2 - Neural ODE Processes: A Short Summary  </li>
       <li>08:15 : Invited Talk 2 - Neha Yadav - Deep learning methods for solving differential equations </li>
