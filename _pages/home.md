@@ -33,6 +33,10 @@ acknowledgements: ""
   </div> 
 </div>
 
+<center><span style="color:#e74c3c;font-weight:400;">
+      Find 2022 event <a style="font-weight:500;" href="https://dlde-2022.github.io/">[here]</a>
+</span></center>
+
 <center><span style="color:#3a92d6;font-weight:400;">
 Submit your questions to the panelists 
 <a style="font-weight:500;" href="https://docs.google.com/forms/d/e/1FAIpQLSfIxfL0O06MmZRNbIlibH8UgdnhQta3b2MCxindswKzrkx6bA/viewform">[here]</a>
